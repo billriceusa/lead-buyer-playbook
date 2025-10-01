@@ -184,7 +184,7 @@ Sarah learned that different industries carried unique compliance requirements t
 
 ### Financial Services and Mortgage
 
-Working in fintech, Sarah was familiar with the additional compliance layers in financial services:
+Working in mortgage lending, Sarah was familiar with the additional compliance layers in financial services:
 
 **Fair Credit Reporting Act (FCRA)**
 - Requirements for credit-related communications
@@ -488,4 +488,4 @@ The frameworks and tools referenced in this chapter are available for immediate 
 
 ---
 
-*In the next chapter, we'll explore speed-to-lead systems and the critical first 24 hours that determine whether leads convert to opportunities or disappear into the pipeline void.*
+*In the next chapter, we'll explore the 20%+ contact rate formula—the systematic approaches to reaching consumers quickly and effectively that turn purchased leads into actual conversations and opportunities.*

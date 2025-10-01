@@ -131,11 +131,11 @@ Very few teams reach this level, but those that do become virtually unbeatable i
 
 Understanding the maturity framework is one thing. Actually evolving your role to drive your organization through these stages is another.
 
-Let me share how this played out for Jennifer, a marketing operations manager at a fintech company who made the leap from tactical to strategic over 18 months.
+Consider how this played out for Jennifer, a marketing operations manager at a mortgage company who made the leap from tactical to strategic over 18 months.
 
-When Jennifer and I first worked together, she was drowning in campaign execution. Her days were spent setting up automations, running reports, and troubleshooting integration issues. She was incredibly good at the tactical work, but she felt like she was always reacting instead of leading.
+At the start of her transformation journey, Jennifer was drowning in campaign execution. Her days were spent setting up automations, running reports, and troubleshooting integration issues. She was incredibly good at the tactical work, but she felt like she was always reacting instead of leading.
 
-"I know there's a bigger picture here," she told me during one of our early conversations. "But I can't see past the next campaign launch."
+"I know there's a bigger picture here," she reflected at the time. "But I can't see past the next campaign launch."
 
 The breakthrough came when Jennifer started thinking about her role differently. Instead of just managing campaigns, she began to see herself as the architect of the company's demand generation engine.
 

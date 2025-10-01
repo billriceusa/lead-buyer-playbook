@@ -24,7 +24,9 @@ Sarah's first step was conducting a comprehensive analysis of insurance industry
 
 *Current Insurance Lead Performance:*
 - Monthly insurance lead volume: 2,134 qualified leads across life, health, auto, and home insurance
-- Conversion rate: 41.8% (above industry average of 32-38%)
+- Contact rate: 32% (leads successfully contacted)
+- Opportunity-to-close rate: 41.8% (qualified opportunities that close—above industry average of 32-38%)
+- Overall lead-to-sale conversion: 13.4% (end-to-end funnel performance—above industry average of 9-12%)
 - Average policy premium: $2,847 annually (mix of individual and family policies)
 - Sales cycle: 29 days average (shorter than mortgage, relationship-dependent)
 - Customer lifetime value: $8,234 (including renewals and cross-sell opportunities)
@@ -496,7 +498,8 @@ Sarah established comprehensive metrics that reflected both insurance-specific p
 ### Primary Performance Indicators
 
 **Insurance Lead Generation Performance:**
-- Conversion rate: Target 43%+ across all insurance lead types and product categories
+- Opportunity-to-close rate: Target 43%+ across all insurance lead types and product categories
+- Overall lead-to-sale conversion: Target 13%+ (above industry average of 9-12%)
 - Regulatory compliance: Target 100% compliance across all licensing and regulatory requirements
 - Customer relationship quality: Target >95% customer satisfaction and trust scores
 - Customer lifetime value: Target $9,000+ including renewals and cross-sell optimization
@@ -534,7 +537,8 @@ Twelve months after implementing comprehensive insurance-specific lead generatio
 ### Performance Improvements
 
 **Insurance Lead Generation Results:**
-- Conversion rate: 44.7% across all insurance lead types (exceeding 43% target)
+- Opportunity-to-close rate: 44.7% across all insurance lead types (exceeding 43% target)
+- Overall lead-to-sale conversion: 14.3% (above industry average of 9-12%, exceeding 13% target)
 - Regulatory compliance: 100% compliance across all licensing and regulatory requirements
 - Customer relationship quality: 96.8% customer satisfaction and trust scores
 - Customer lifetime value: $9,347 including renewals and cross-sell optimization

@@ -360,4 +360,4 @@ And with that understanding, Sarah was ready to tackle the next challenge in her
 
 ---
 
-*In the next chapter, we'll explore vendor selection and management—how to identify, evaluate, and build productive relationships with lead generation partners who share your commitment to quality.*
+*In the next chapter, we'll explore compliance without myths—the practical regulatory frameworks for TCPA, consent management, and data privacy that protect your business while enabling effective lead generation at scale.*

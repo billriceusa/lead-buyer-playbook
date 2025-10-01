@@ -24,7 +24,9 @@ Sarah's first step was conducting a comprehensive analysis of solar industry-spe
 
 *Current Solar Lead Performance:*
 - Monthly solar lead volume: 1,623 qualified leads across residential and commercial solar
-- Conversion rate: 39.6% (above industry average of 28-35%)
+- Contact rate: 31% (leads successfully contacted)
+- Opportunity-to-close rate: 39.6% (qualified opportunities that convert to installation—above industry average of 28-35%)
+- Overall lead-to-sale conversion: 12.3% (end-to-end funnel performance—above industry average of 8-11%)
 - Average system size: 8.7 kW residential, $31,400 average project value
 - Sales cycle: 116 days average (longest cycle due to permitting and installation)
 - Customer lifetime value: $2,847 (including referrals and maintenance contracts)
@@ -448,7 +450,8 @@ Sarah established comprehensive metrics that reflected both solar-specific perfo
 ### Primary Performance Indicators
 
 **Solar Lead Generation Performance:**
-- Conversion rate: Target 42%+ across all solar lead types and system categories
+- Opportunity-to-close rate: Target 42%+ across all solar lead types and system categories
+- Overall lead-to-sale conversion: Target 13%+ (above industry average of 8-11%)
 - Average system size: Target 9.2 kW residential systems with $34,000+ average project value
 - Sales cycle efficiency: Target 105-day average from lead to installation completion
 - Customer satisfaction: Target >95% satisfaction with consultation, installation, and system performance
@@ -486,7 +489,8 @@ Twelve months after implementing comprehensive solar-specific lead generation an
 ### Performance Improvements
 
 **Solar Lead Generation Results:**
-- Conversion rate: 43.2% across all solar lead types (exceeding 42% target)
+- Opportunity-to-close rate: 43.2% across all solar lead types (exceeding 42% target)
+- Overall lead-to-sale conversion: 13.4% (above industry average of 8-11%, exceeding 13% target)
 - Average system size: 9.4 kW residential systems with $35,700 average project value
 - Sales cycle efficiency: 102-day average from lead to installation completion
 - Customer satisfaction: 96.8% satisfaction with consultation, installation, and system performance

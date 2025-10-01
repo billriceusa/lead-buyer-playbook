@@ -2,7 +2,7 @@
 
 Six months after implementing TechFlow's sophisticated lead scoring system, Sarah faced a challenge that would test everything she had learned about data-driven lead management. The quarterly board meeting was approaching, and the CFO had asked a deceptively simple question that sent ripples through the entire revenue organization.
 
-"Sarah, we're spending $2.3 million annually on purchased leads across twelve different vendors," CFO Michael Torres announced during the pre-board strategy session. "I need you to show me exactly which sources are driving actual revenue, not just conversions. And I need to understand how changes in our lead spend will impact our pipeline six months from now."
+"Sarah, we're spending $2.3 million annually on purchased leads across twelve different vendors," CEO Michael Torres announced during the pre-board strategy session. "I need you to show me exactly which sources are driving actual revenue, not just conversions. And I need to understand how changes in our lead spend will impact our pipeline six months from now."
 
 The request seemed straightforward until Sarah began digging into the attribution complexity that had been hidden beneath their sophisticated lead management systems. While their lead scoring had dramatically improved conversion rates, the fundamental question of which lead sources truly drove profitable revenue remained surprisingly elusive.
 

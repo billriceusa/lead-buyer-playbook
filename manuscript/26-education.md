@@ -24,7 +24,9 @@ Sarah's first step was conducting a comprehensive analysis of education industry
 
 *Current Education Lead Performance:*
 - Monthly education lead volume: 1,289 qualified leads across undergraduate, graduate, and professional programs
-- Conversion rate: 37.9% (above industry average of 28-34%)
+- Contact rate: 29% (leads successfully contacted)
+- Opportunity-to-close rate: 37.9% (qualified opportunities that enroll—above industry average of 28-34%)
+- Overall lead-to-enrollment conversion: 11.0% (end-to-end funnel performance—above industry average of 7-10%)
 - Average program cost: $47,800 (mix of certificate, degree, and professional programs)
 - Sales cycle: 145 days average (longest cycle due to research and family decision-making)
 - Student lifetime value: $12,400 (including program completion, referrals, and continuing education)
@@ -520,7 +522,8 @@ Sarah established comprehensive metrics that reflected both education-specific p
 ### Primary Performance Indicators
 
 **Education Lead Generation Performance:**
-- Conversion rate: Target 40%+ across all education lead types and program categories
+- Opportunity-to-enrollment rate: Target 40%+ across all education lead types and program categories
+- Overall lead-to-enrollment conversion: Target 11%+ (above industry average of 7-10%)
 - Privacy compliance: Target 100% FERPA compliance with educational record protection excellence
 - Student satisfaction: Target >95% satisfaction with educational guidance and enrollment process
 - Family relationship quality: Target >90% family satisfaction and advocacy development
@@ -558,7 +561,8 @@ Twelve months after implementing comprehensive education-specific lead generatio
 ### Performance Improvements
 
 **Education Lead Generation Results:**
-- Conversion rate: 41.3% across all education lead types (exceeding 40% target)
+- Opportunity-to-enrollment rate: 41.3% across all education lead types (exceeding 40% target)
+- Overall lead-to-enrollment conversion: 12.0% (above industry average of 7-10%, exceeding 11% target)
 - Privacy compliance: 100% FERPA compliance with educational record protection excellence
 - Student satisfaction: 96.2% satisfaction with educational guidance and enrollment process
 - Family relationship quality: 91.7% family satisfaction and advocacy development

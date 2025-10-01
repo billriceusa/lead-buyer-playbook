@@ -1,6 +1,6 @@
 # Chapter 20: Content, SEO, and Referral Programs
 
-Six months after launching TechFlow's first-party lead generation initiative, Sarah faced an implementation challenge that would test her team's ability to execute the tactical elements of owned lead generation while maintaining their purchased lead excellence. The monthly performance review had revealed both promising early results and critical execution gaps that needed immediate attention.
+Six months into TechFlow's first-party lead generation initiative—running parallel to their AI enhancement efforts—Sarah faced an implementation challenge that would test her team's ability to execute the tactical elements of owned lead generation while maintaining their purchased lead excellence. The monthly performance review had revealed both promising early results and critical execution gaps that needed immediate attention.
 
 "Our first-party strategy is showing strong early indicators," Sarah reported to her team. "We've generated 847 leads through our initial content and SEO efforts, and our referral program has produced 312 qualified leads with a 51% conversion rate. But we're still only at 8% of our total lead volume from first-party sources—well below our 18-month target of 30%."
 

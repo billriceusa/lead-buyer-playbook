@@ -1,6 +1,6 @@
 # Chapter 3: Markets, Pricing, and Unit Economics
 
-Six months after Sarah's transformation into a lead strategist, she received an unexpected call from Marcus Chen, the CFO at TechFlow Solutions.
+Six months after Sarah's transformation into a lead strategist, she received an unexpected call from Marcus Chen, the CFO at TechFlow.
 
 "Sarah, I need to understand something," Marcus said, his voice carrying the weight of quarterly budget reviews. "We're spending $850,000 annually on lead generation across twelve different vendors. Our cost per lead ranges from $31 for technology vendors to $400 for financial services partners. But here's what keeps me up at night—I can't figure out if we're getting a good deal or being systematically overcharged."
 
@@ -16,13 +16,16 @@ The lead generation market of 2024 operates under what industry analysts call "t
 
 "The first thing you need to understand," Sarah explained to Marcus during their strategy session, "is that we're not just buying contacts. We're buying a complete prospecting and qualification process that includes technology, human intelligence, data validation, and ongoing optimization."
 
-The numbers told a compelling story. Across industries, the average cost per lead had risen from $198 in early 2024 to approximately $220 by year-end, with significant variations by sector:
+The numbers told a compelling story. Lead costs have historically increased 8-15% year-over-year, driven by increased competition for quality traffic and rising advertising costs across digital channels. In B2C consumer direct markets, pricing varies significantly by vertical:
 
-- **Technology:** $31-50 per lead (high volume, standardized processes)
-- **Healthcare:** $350-400 per lead (complex compliance requirements)
-- **Financial Services:** $650+ per lead (extensive qualification needed)
-- **Legal Services:** $649 per lead (high-value, long sales cycles)
-- **Manufacturing:** $553 per lead (technical complexity, relationship-driven)
+**B2C Consumer Direct Lead Pricing:**
+- **Mortgage & Real Estate:** $50-$120 per lead (shared), $150-$300 (exclusive)
+- **Life Insurance:** $25-$75 per lead depending on coverage amount  
+- **Auto/Home Insurance:** $15-$40 per lead
+- **Solar & Home Improvement:** $75-$200 per lead
+- **Education (Higher Ed):** $35-$100 per lead depending on program type
+
+*Note: B2B lead pricing operates differently due to longer sales cycles and higher lifetime values. B2B software leads average $200-$400, while enterprise solutions can exceed $1,000 per lead. The principles in this chapter apply to both markets, but our examples focus on B2C consumer direct pricing since TechFlow operates in the mortgage market.*
 
 But these averages masked a critical distinction that Sarah had learned to identify: the difference between cost per lead (CPL) and cost per acquisition (CPA).
 
@@ -274,4 +277,4 @@ Marcus's final comment captured the transformation: "Six months ago, I thought l
 
 ---
 
-*In the next chapter, we'll explore how to build and execute comprehensive lead generation strategies that deliver measurable business results while maintaining the unit economics fundamentals covered in this chapter.*
+*In the next chapter, we'll explore how leads are actually made—the channels, technologies, and quality factors that determine whether you're buying authentic consumer interest or digital noise dressed up as opportunities.*

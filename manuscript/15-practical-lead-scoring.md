@@ -24,8 +24,8 @@ Sarah's first step was conducting a comprehensive analysis of the factors that a
 
 *Overall Consumer Conversion Patterns:*
 - Total consumer leads analyzed: 28,847 leads
-- Overall conversion rate: 16.3% (typical for consumer direct)
-- Conversion rate range by individual lead: 2.1% to 67.8%
+- Overall lead-to-sale conversion rate: 16.3% (typical for optimized consumer direct operations)
+- Lead-to-sale conversion range by individual lead: 2.1% to 67.8%
 - Standard deviation: 18.7% (high variation typical in consumer markets)
 
 *Traditional Demographic Predictors in Consumer Markets:*
@@ -546,10 +546,10 @@ Eighteen months after implementing consumer-focused lead scoring, TechFlow had a
 - Resource allocation efficiency: 68% improvement in sales team productivity
 
 **Business Impact Results:**
-- Overall conversion rate: 22.4% (up from 16.3%)
+- Overall lead-to-sale conversion rate: 22.4% (up from 16.3%)
 - Contact rate within 5 minutes: 84.3% (up from 61.2%)
 - Cost per acquisition: $89 (down from $127)
-- Revenue per lead: $298 (up from $168)
+- Revenue per lead: $298
 
 **Consumer-Specific Outcomes:**
 - Life event detection accuracy: 67% (enabling proactive outreach)
