@@ -12,25 +12,25 @@ The journey from tactical to strategic isn't just about changing your title or e
 
 ## The Evolution That Most Teams Miss
 
-When I work with enterprise teams, I consistently see the same pattern. They hire smart, capable people to "manage lead generation," and those people do exactly what they're asked: they buy leads, track conversion rates, and optimize for cost per lead.
+Enterprise teams consistently follow the same pattern. They hire smart, capable people to "manage lead generation," and those people do exactly what they're asked: they buy leads, track conversion rates, and optimize for cost per lead.
 
 But here's what happens next: the business grows, the market shifts, and suddenly the tactics that worked at $5M in revenue don't work at $50M. The team finds themselves constantly reacting to problems instead of preventing them, fighting fires instead of building systems, and defending their budget instead of demonstrating strategic value.
 
 This is where most lead buying programs plateau. They become really good at tactics but never develop the strategic foundation that drives compound growth.
 
-Let me tell you about David, a demand generation director I worked with at a fast-growing SaaS company. When I first met him, he was proud of the sophisticated lead scoring system his team had built. They had dozens of criteria, complex algorithms, and detailed attribution models.
+Consider a demand generation director at a fast-growing SaaS company who was proud of the sophisticated lead scoring system his team had built. They had dozens of criteria, complex algorithms, and detailed attribution models.
 
-"We can tell you exactly which lead came from which source, how they engaged with our content, and what their likelihood to convert is," David explained during our first call.
+"We can tell you exactly which lead came from which source, how they engaged with our content, and what their likelihood to convert is," the director explains to leadership.
 
-"That's impressive," I said. "Now tell me about your strategy."
+The strategic question comes back: "That's impressive. Now tell us about your strategy."
 
-The silence that followed was telling.
+The silence that follows is telling.
 
-David's team had built an incredibly sophisticated tactical operation. But they didn't have a strategic framework for how lead generation should evolve as the company grew, how to align with broader revenue goals, or how to drive the kind of predictable growth that creates competitive advantages.
+The team had built an incredibly sophisticated tactical operation. But they didn't have a strategic framework for how lead generation should evolve as the company grew, how to align with broader revenue goals, or how to drive the kind of predictable growth that creates competitive advantages.
 
-Six months later, David's approach looked completely different. Instead of optimizing individual campaigns, he was designing systems. Instead of reacting to quarterly targets, he was building capabilities that compounded over time. Instead of managing vendors, he was developing strategic partnerships that grew with the business.
+Six months later, the approach looked completely different. Instead of optimizing individual campaigns, they were designing systems. Instead of reacting to quarterly targets, they were building capabilities that compounded over time. Instead of managing vendors, they were developing strategic partnerships that grew with the business.
 
-The transformation wasn't about learning new tools or tactics. It was about developing what I call "strategic thinking at scale."
+The transformation wasn't about learning new tools or tactics. It was about developing strategic thinking at scale.
 
 ## The Strategic Mindset Shift
 
