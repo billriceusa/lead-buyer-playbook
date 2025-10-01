@@ -1,6 +1,6 @@
 # Chapter 1: The Enterprise Lead Buying Landscape
 
-It was 10:47 AM on a Tuesday when Sarah's phone buzzed with a Slack message that would change everything. As Chief Marketing Officer at a fast-growing mortgage company, she'd seen her share of pipeline emergencies. But this one was different.
+It was 10:47 AM on a Tuesday when Sarah's phone buzzed with a Slack message that would change everything. As Chief Revenue Officer at a fast-growing mortgage company, she'd seen her share of pipeline emergencies. But this one was different.
 
 "Sarah, we need to talk. Now." The message was from her CEO, and the tone was unmistakable.
 
