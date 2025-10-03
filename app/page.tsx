@@ -1,7 +1,7 @@
 import Link from 'next/link';
 import { getAllChapters } from '@/lib/chapters';
 
-export function HomePage() {
+export default function HomePage() {
   const chapters = getAllChapters();
 
   return (
@@ -56,7 +56,3 @@ export function HomePage() {
     </div>
   );
 }
-
-export default HomePage;
-
-

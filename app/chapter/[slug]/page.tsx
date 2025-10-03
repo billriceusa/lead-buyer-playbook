@@ -32,7 +32,7 @@ export async function generateMetadata({ params }: ChapterPageProps) {
   };
 }
 
-export function ChapterPage({ params }: ChapterPageProps) {
+export default function ChapterPage({ params }: ChapterPageProps) {
   const chapter = getChapterBySlug(params.slug);
   
   if (!chapter) {
@@ -134,7 +134,3 @@ export function ChapterPage({ params }: ChapterPageProps) {
     </div>
   );
 }
-
-export default ChapterPage;
-
-
