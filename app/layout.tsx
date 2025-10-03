@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   description: "The Enterprise Guide to Buying and Converting Leads Profitably",
 };
 
-export function RootLayout({
+export default function RootLayout({
   children,
 }: Readonly<{
   children: React.ReactNode;
@@ -19,6 +19,4 @@ export function RootLayout({
     </html>
   );
 }
-
-export default RootLayout;
 
