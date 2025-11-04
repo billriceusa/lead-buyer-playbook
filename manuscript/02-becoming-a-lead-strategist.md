@@ -1,6 +1,6 @@
-# Chapter 2: Becoming a Lead Strategist
+# Becoming a lead strategist
 
-## Pillar 1: Strategic Vendor Ecosystem Management
+## Pillar 1: strategic vendor ecosystem management
 
 Three months after Sarah's vendor dependency crisis, she found herself sitting in yet another conference room. But this time, the energy was different. The quarterly pipeline review that had once been a source of dread was now a strategic planning session that the entire revenue team actually wanted to attend.
 
@@ -12,7 +12,7 @@ That question launched a new phase of Sarah's journey. Because what she had disc
 
 The journey from tactical to strategic isn't just about changing your title or expanding your responsibilities. It's about fundamentally shifting how you think about leads, how you measure success, and how you drive growth that compounds over time.
 
-## The Evolution That Most Teams Miss
+## The evolution that most teams miss
 
 Enterprise teams consistently follow the same pattern. They hire smart, capable people to "manage lead generation," and those people do exactly what they're asked: they buy leads, track conversion rates, and optimize for cost per lead.
 
@@ -34,7 +34,7 @@ Six months later, the approach looked completely different. Instead of optimizin
 
 The transformation wasn't about learning new tools or tactics. It was about developing strategic thinking at scale.
 
-## The Strategic Mindset Shift
+## The strategic mindset shift
 
 The difference between tactical lead buying and strategic demand generation isn't complexity—it's perspective. Tactical thinking focuses on immediate results and optimization. Strategic thinking focuses on building capabilities that create sustainable competitive advantages.
 
@@ -51,13 +51,13 @@ Here's how this plays out in practice:
 
 This shift in thinking transforms how you approach your role. Instead of managing campaigns, you're building systems. Instead of optimizing metrics, you're developing capabilities. Instead of reacting to market changes, you're anticipating and preparing for them.
 
-## The Maturity Framework
+## The maturity framework
 
 After working with dozens of enterprise teams through this transition, I've identified a maturity framework that predicts which organizations will scale successfully and which will plateau.
 
 The framework has four stages, and understanding where you are—and where you need to go—is crucial for making the strategic leap.
 
-### Stage 1: Reactive Lead Buying
+### Stage 1: reactive lead buying
 
 **Characteristics:**
 - Lead generation is primarily transactional
@@ -75,7 +75,7 @@ The framework has four stages, and understanding where you are—and where you n
 
 Most enterprise teams start here, and many get stuck here. They become really good at buying leads and managing campaigns, but they never develop the strategic foundation needed for sustainable growth.
 
-### Stage 2: Systematic Lead Management
+### Stage 2: systematic lead management
 
 **Characteristics:**
 - Established processes for vendor management
@@ -93,7 +93,7 @@ Most enterprise teams start here, and many get stuck here. They become really go
 
 This is where Sarah's team was after implementing the vendor management framework from Chapter 1. They had solved the immediate crisis and built systematic approaches to lead buying. But to become truly strategic, they needed to go further.
 
-### Stage 3: Strategic Demand Generation
+### Stage 3: strategic demand generation
 
 **Characteristics:**
 - Lead generation is integrated with broader revenue strategy
@@ -111,7 +111,7 @@ This is where Sarah's team was after implementing the vendor management framewor
 
 This is where the magic starts to happen. Teams at this stage aren't just buying leads—they're driving demand creation that compounds over time.
 
-### Stage 4: Market-Leading Revenue Engine
+### Stage 4: market-leading revenue engine
 
 **Characteristics:**
 - Demand generation drives competitive advantage
@@ -129,7 +129,7 @@ This is where the magic starts to happen. Teams at this stage aren't just buying
 
 Very few teams reach this level, but those that do become virtually unbeatable in their markets.
 
-## The Role Evolution That Drives Results
+## The role evolution that drives results
 
 Understanding the maturity framework is one thing. Actually evolving your role to drive your organization through these stages is another.
 
@@ -159,67 +159,67 @@ The results were dramatic. Within six months, Jennifer's team had:
 
 But perhaps most importantly, Jennifer had transformed from someone who executed marketing tactics to someone who drove revenue strategy.
 
-## The Skills That Matter Most
+## The skills that matter most
 
 Making the transition from tactical to strategic requires developing new capabilities. Based on my experience working with teams through this evolution, here are the skills that matter most:
 
-### Systems Thinking
+### Systems thinking
 
 Strategic lead generation isn't about optimizing individual components—it's about designing systems where the whole is greater than the sum of its parts. This means understanding how changes in one area ripple through the entire revenue engine.
 
 For example, when Jennifer's team improved lead qualification, it didn't just increase conversion rates. It also reduced sales cycle length, improved customer satisfaction, and freed up sales capacity for higher-value opportunities. Understanding these interconnections is what separates strategic from tactical thinking.
 
-### Strategic Planning
+### Strategic planning
 
 Tactical teams plan for the next quarter. Strategic teams plan for the next three years while maintaining flexibility to adapt as conditions change.
 
 This involves developing scenario planning capabilities, understanding market dynamics, and building strategies that work across different growth stages and market conditions.
 
-### Cross-Functional Leadership
+### Cross-functional leadership
 
 Strategic demand generation requires influence without authority. You need to align marketing, sales, and customer success around shared objectives while managing competing priorities and resource constraints.
 
 This isn't just about running good meetings—it's about building the relationships and communication frameworks that enable sustained collaboration.
 
-### Data-Driven Decision Making
+### Data-driven decision making
 
 While tactical roles focus on reporting what happened, strategic roles focus on predicting what will happen and designing interventions to influence outcomes.
 
 This requires advanced analytics capabilities, but more importantly, it requires the business judgment to know which data matters and how to translate insights into action.
 
-### Market Intelligence
+### Market intelligence
 
 Strategic teams don't just respond to market changes—they anticipate them. This requires developing intelligence capabilities that track competitive dynamics, customer behavior shifts, and technology trends that could impact your approach.
 
-## The Organizational Foundation
+## The organizational foundation
 
 Individual role evolution is just one piece of the puzzle. To become truly strategic, you need organizational support and alignment.
 
 Here's what I've learned about the organizational factors that enable strategic demand generation:
 
-### Executive Sponsorship
+### Executive sponsorship
 
 Strategic demand generation requires investment—in people, technology, and time. You need executive sponsors who understand that building sustainable competitive advantages takes time and resources.
 
 This isn't just about budget approval. It's about having leaders who can protect strategic initiatives from short-term pressures and provide air cover while you build capabilities.
 
-### Cross-Functional Alignment
+### Cross-functional alignment
 
 Strategic demand generation only works when marketing, sales, and customer success are aligned around shared objectives. This requires formal processes for collaboration, shared metrics that encourage cooperation, and regular communication that builds trust and understanding.
 
-### Technology Infrastructure
+### Technology infrastructure
 
 Strategic approaches require sophisticated technology platforms that can scale with your growth. This isn't just about having the latest tools—it's about building integrated systems that provide comprehensive visibility and enable automated optimization.
 
-### Performance Measurement
+### Performance measurement
 
 Strategic roles require strategic metrics. Instead of just tracking lead volume and cost per lead, you need to measure pipeline velocity, customer lifetime value, market share, and competitive positioning.
 
-## The Transformation Process
+## The transformation process
 
 Making the leap from tactical to strategic isn't something that happens overnight. Based on my experience with dozens of teams, here's the process that works:
 
-### Phase 1: Foundation Building (Months 1-3)
+### Phase 1: foundation building (months 1-3)
 
 The first phase focuses on establishing the tactical foundation needed to support strategic initiatives. This includes:
 
@@ -231,7 +231,7 @@ The first phase focuses on establishing the tactical foundation needed to suppor
 
 This is where most teams want to skip ahead, but the foundation work is crucial. You can't be strategic if you're constantly fighting tactical fires.
 
-### Phase 2: Capability Development (Months 4-9)
+### Phase 2: capability development (months 4-9)
 
 The second phase focuses on building the capabilities that enable strategic thinking:
 
@@ -243,7 +243,7 @@ The second phase focuses on building the capabilities that enable strategic thin
 
 This is where the real transformation happens. You're shifting from reactive to proactive, from tactical to strategic.
 
-### Phase 3: Strategic Implementation (Months 10-18)
+### Phase 3: strategic implementation (months 10-18)
 
 The third phase focuses on implementing strategic initiatives that create competitive advantages:
 
@@ -255,7 +255,7 @@ The third phase focuses on implementing strategic initiatives that create compet
 
 This is where you start to see compound returns on your strategic investments.
 
-### Phase 4: Continuous Evolution (Ongoing)
+### Phase 4: continuous evolution (ongoing)
 
 The fourth phase focuses on continuous improvement and adaptation:
 
@@ -267,7 +267,7 @@ The fourth phase focuses on continuous improvement and adaptation:
 
 Strategic organizations never stop evolving. They build capabilities for continuous adaptation and improvement.
 
-## When the Transformation Clicks
+## When the transformation clicks
 
 Three months after our initial conversation about scaling their approach, Sarah's CEO asked her to present their demand generation strategy to the board of directors.
 
@@ -289,7 +289,7 @@ The answer will determine everything about what comes next.
 
 ---
 
-## Resources and Tools
+## Resources and tools
 
 The frameworks and assessments referenced in this chapter are available for immediate implementation:
 

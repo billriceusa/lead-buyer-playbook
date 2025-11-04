@@ -1,4 +1,4 @@
-# Chapter 3: Markets, Pricing, and Unit Economics
+# Markets, pricing, and unit economics
 
 Six months after Sarah's transformation into a lead strategist, she received an unexpected call from Marcus Chen, the CFO at TechFlow.
 
@@ -10,7 +10,7 @@ Sarah had been preparing for this conversation her entire career. The unit econo
 
 This conversation would lead to one of the most comprehensive lead generation economics analyses in TechFlow's history—and reveal insights that would reshape how enterprise buyers approach vendor relationships, pricing negotiations, and unit economics optimization.
 
-## The Great Pricing Revelation
+## The great pricing revelation
 
 The lead generation market of 2024 operates under what industry analysts call "the new pricing paradigm." Unlike traditional advertising where you pay for impressions or clicks, lead generation pricing reflects the full cost of prospecting, qualification, and handoff—creating complex unit economics that most buyers don't fully understand.
 
@@ -29,7 +29,7 @@ The numbers told a compelling story. Lead costs have historically increased 8-15
 
 But these averages masked a critical distinction that Sarah had learned to identify: the difference between cost per lead (CPL) and cost per acquisition (CPA).
 
-## CPL vs CPA: The Economics That Matter
+## CPL vs CPA: the economics that matter
 
 "Let me show you something that will change how you think about lead pricing," Sarah said, pulling up a detailed analysis on her laptop. "We tracked two vendors over six months. Vendor A charged us $45 per lead and delivered 1,000 leads. Vendor B charged $125 per lead and delivered 400 leads."
 
@@ -44,7 +44,7 @@ The math was striking:
 
 "Vendor B was actually 59% more cost-effective," Sarah explained. "This is why leading companies are shifting from CPL-focused to CPA-focused vendor relationships."
 
-## The Exclusive vs Shared Lead Economics
+## The exclusive vs shared lead economics
 
 The conversation then turned to one of the most misunderstood aspects of lead economics: the difference between exclusive and shared lead models.
 
@@ -70,7 +70,7 @@ Sarah had seen this pricing dynamic across dozens of enterprises. The economics 
 
 The data supported this insight. Companies with rapid response capabilities (under 5 minutes) saw shared lead conversion rates of 3.8%, making the economics competitive. Companies with slower response times (over 30 minutes) saw shared lead conversion rates drop to 0.9%, making exclusive leads significantly more cost-effective.
 
-## Understanding Vendor Margins and Incentive Structures
+## Understanding vendor margins and incentive structures
 
 As their analysis deepened, Sarah revealed insights about vendor economics that most buyers never consider.
 
@@ -96,7 +96,7 @@ As their analysis deepened, Sarah revealed insights about vendor economics that 
 
 "The best vendor relationships align their economic incentives with your success metrics," Sarah noted. "We've moved away from pure CPL contracts toward hybrid models where vendors receive base compensation plus performance bonuses tied to our actual conversion rates and revenue outcomes."
 
-## The Hidden Costs That Kill Unit Economics
+## The hidden costs that kill unit economics
 
 Marcus discovered that their $850,000 annual lead generation budget was actually closer to $1.2 million when hidden costs were included.
 
@@ -121,7 +121,7 @@ The hidden costs included:
 
 "When you include these costs," Sarah calculated, "our true cost per lead rises from $177 to $250, and our cost per acquisition increases from $8,850 to $12,500. This changes the vendor evaluation equation completely."
 
-## Market Dynamics and Pricing Trends
+## Market dynamics and pricing trends
 
 The lead generation market was experiencing significant changes that savvy buyers needed to understand.
 
@@ -146,7 +146,7 @@ Key market dynamics included:
 
 "The vendors who are investing in legitimate technology improvements and compliance are the ones raising prices," Sarah noted. "The vendors competing purely on low cost are often cutting corners that will hurt your results."
 
-## Building Sustainable Lead Economics
+## Building sustainable lead economics
 
 Through their comprehensive analysis, Sarah and Marcus developed a framework for evaluating and optimizing lead generation unit economics.
 
@@ -171,7 +171,7 @@ Through their comprehensive analysis, Sarah and Marcus developed a framework for
    - Geographic and market expansion potential
    - Integration complexity and costs
 
-## The Portfolio Approach to Vendor Economics
+## The portfolio approach to vendor economics
 
 Rather than seeking a single perfect vendor, Sarah advocated for a portfolio approach that optimized for different economic objectives.
 
@@ -182,7 +182,7 @@ Rather than seeking a single perfect vendor, Sarah advocated for a portfolio app
 
 "This approach spreads risk while allowing you to optimize for both cost and quality," Sarah explained. "It also gives you leverage in negotiations and provides backup options if one vendor's performance declines."
 
-## Advanced Pricing Models and Negotiations
+## Advanced pricing models and negotiations
 
 As enterprises become more sophisticated buyers, pricing models are evolving beyond simple per-lead arrangements.
 
@@ -203,7 +203,7 @@ As enterprises become more sophisticated buyers, pricing models are evolving bey
 
 "The best negotiations focus on total value rather than unit cost," Sarah advised. "We've achieved 25-40% better unit economics by structuring deals that align vendor incentives with our business outcomes."
 
-## Measuring and Optimizing Return on Lead Investment
+## Measuring and optimizing return on lead investment
 
 The final piece of the economics puzzle was establishing measurement systems that tracked true return on investment.
 
@@ -227,7 +227,7 @@ TechFlow's optimized lead generation program achieved:
 - 28% increase in average deal size from lead-sourced opportunities
 - 156% overall ROI improvement
 
-## The Future of Lead Generation Economics
+## The future of lead generation economics
 
 Looking ahead, Sarah identified several trends that would reshape lead generation economics:
 
@@ -246,7 +246,7 @@ Looking ahead, Sarah identified several trends that would reshape lead generatio
 - Revenue-sharing arrangements becoming common
 - Long-term strategic partnerships replacing transactional relationships
 
-## Implementation: The 90-Day Economics Optimization
+## Implementation: the 90-day economics optimization
 
 Marcus and Sarah developed a practical implementation plan for optimizing lead generation economics:
 
@@ -265,7 +265,7 @@ Marcus and Sarah developed a practical implementation plan for optimizing lead g
 - Establish automated reporting and optimization
 - Launch continuous improvement processes
 
-## Conclusion: Economics as Competitive Advantage
+## Conclusion: economics as competitive advantage
 
 "Understanding lead generation economics isn't just about cost management," Sarah concluded in her presentation to TechFlow's executive team. "It's about building sustainable competitive advantages through superior unit economics and vendor partnerships."
 

@@ -1,4 +1,4 @@
-# Chapter 1: The Enterprise Lead Buying Landscape
+# The enterprise lead buying landscape
 
 It was 10:47 AM on a Tuesday when Sarah's phone rang. As Chief Revenue Officer at a fast-growing mortgage company, she'd cultivated close relationships with every major lead provider in her mix. So when Marcus from Apex Leads called—the account rep she'd worked with for three years—she expected the usual monthly check-in.
 
@@ -10,7 +10,7 @@ She did the math in her head while Marcus was still talking. At their current ru
 
 After the call ended, Sarah sat staring at her dashboard. She had a meeting with her CEO in two hours. She needed to walk in with more than just bad news—she needed a solution. How had she let one vendor become 40% of her pipeline? And more importantly, how was she going to fix it?
 
-## Sarah's Investigation Begins
+## Sarah's investigation begins
 
 Sarah spent the next hour doing what any strategic leader does in a crisis: she called her network.
 
@@ -26,7 +26,7 @@ But like Sarah's team, they had been focused on volume and cost metrics. Complia
 
 Sarah hung up and opened her own vendor contracts. When was the last time she'd asked for actual consent documentation? Lead-level proof that would hold up in an audit? The answer made her uncomfortable.
 
-## What the Data Actually Revealed
+## What the data actually revealed
 
 Sarah canceled her less critical afternoon meetings and pulled her operations director, Jennifer, into a conference room. "I need to see where every lead came from last quarter. Not just which vendor—I mean actual traffic sources, sub-sources, everything."
 
@@ -48,7 +48,7 @@ They spent the next three hours requesting documentation from all five of Sarah'
 
 Sarah felt something shift in her understanding. She wasn't buying leads from vendors. She was buying opaque packages of risk and expertise that had been wrapped for her convenience. And she'd been treating it like a simple procurement activity.
 
-## The Hidden Economics She'd Been Missing
+## The hidden economics she'd been missing
 
 Over the next week, Sarah built a comprehensive cost model that went beyond the sticker prices she'd been tracking. She pulled in her finance director, her compliance lead, and her technical integration manager. What they discovered was staggering.
 
@@ -68,7 +68,7 @@ Total hidden costs: $139,000 annually—an additional $58 per lead she'd never a
 
 But here's what really troubled Sarah: these weren't fixed costs that would improve with scale. Without systematic vendor management, these costs were only going to grow as they added more volume.
 
-## The Pattern She Saw Everywhere
+## The pattern she saw everywhere
 
 Sarah reached out to three more colleagues over the following days. What she discovered was that her situation wasn't unique—it was the pattern.
 
@@ -80,7 +80,7 @@ The common thread across every conversation: they'd been treating enterprise lea
 
 What they'd needed—and didn't have—was a systematic approach to vendor ecosystem management that treated lead buying as strategic business development.
 
-## Scale and Strategic Complexity
+## Scale and strategic complexity
 
 Here's what Sarah came to understand through her crisis: when you're buying 50 leads a month, vendor management is a procurement activity. When you're buying 1,000+ leads monthly, vendor management becomes strategic business development. The rules change, the stakes escalate, and the consequences of getting it wrong can be catastrophic.
 
@@ -94,13 +94,13 @@ At enterprise scale:
 
 **Vendor dependency becomes strategic risk.** Your best-performing vendor can become your biggest vulnerability overnight. Acquisitions, policy changes, price increases, competitive redirects—any of these can evaporate 40% of your pipeline in a single quarter.
 
-## The Framework Sarah Built
+## The framework Sarah built
 
 Two weeks after Marcus's call, Sarah walked into her CEO's office with a comprehensive plan. But more importantly, she'd developed a framework for thinking about enterprise lead buying that would transform how they operated.
 
 She'd realized that enterprise lead buying wasn't one discipline—it was four interconnected capabilities that worked together as a system:
 
-### The Four Pillars of Enterprise Lead Buying
+### The four pillars of enterprise lead buying
 
 **Pillar 1: Strategic Foundation**
 
@@ -172,7 +172,7 @@ This pillar transforms lead buying from a cost center to a strategic investment 
 - **Chapter 13: Lead Mix Forecasting and Budget Allocation** — Portfolio optimization at scale
 - **Chapter 14: Sales Enablement for Lead Buyers** — Aligning acquisition with conversion
 
-## Sarah's Transformation: Three Months Later
+## Sarah's transformation: three months later
 
 When Sarah reviewed the results three months after that Tuesday morning crisis, the numbers told a remarkable story:
 
@@ -195,11 +195,11 @@ More importantly, when Marcus called with another "heads-up" six weeks later—t
 
 The acquisition that would have been a crisis three months earlier was barely a disruption.
 
-## Understanding Lead Conversion Metrics
+## Understanding lead conversion metrics
 
 Before we move forward through the rest of this book, let's establish clear definitions for the conversion metrics you'll see referenced throughout. Professional lead buyers need precision in measurement, and ambiguous terminology undermines strategic decision-making.
 
-### The B2C Lead Conversion Funnel
+### The B2C lead conversion funnel
 
 **Contact Rate**: Percentage of purchased leads where you successfully make initial contact (phone conversation, text response, email reply)
 - Industry benchmark: 10-20% for standard operations
@@ -232,7 +232,7 @@ Before we move forward through the rest of this book, let's establish clear defi
 
 Throughout this book, we'll specify which conversion metric we're referencing. When you see "conversion rate" without qualification, we're referring to the overall lead-to-sale conversion unless otherwise noted.
 
-## Your Journey Through This Book
+## Your journey through this book
 
 Sarah's crisis forced her to build a systematic approach to enterprise lead buying. Your advantage is that you can build that same system proactively, learning from her experience without going through the crisis.
 
@@ -252,7 +252,7 @@ Here's how to think about your journey:
 
 But I'd recommend reading sequentially. Each pillar builds on the previous one. Sarah discovered that strategic vendor management requires compliance frameworks, operational excellence needs financial intelligence, and everything works better when your team is properly enabled. The conclusion then gives you a clear roadmap to implement everything you've learned.
 
-## A Question to Consider
+## A question to consider
 
 Before you move to Chapter 2, consider the question that reframed how Sarah thought about her vendor relationships:
 
@@ -266,7 +266,7 @@ The rest of this book shows you exactly how to build that same system—one pill
 
 ---
 
-## Resources and Tools
+## Resources and tools
 
 The frameworks and tools referenced in this chapter are available for immediate implementation:
 
