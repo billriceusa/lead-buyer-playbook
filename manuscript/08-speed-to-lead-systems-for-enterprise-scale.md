@@ -1,6 +1,6 @@
 # Speed-to-Lead Systems for Enterprise Scale
 
-Three months after implementing TechFlow's SMS-first contact strategy, Sarah faced a problem she'd never anticipated: success was breaking her systems.
+Three months after implementing Velocity Lending's SMS-first contact strategy, Sarah faced a problem she'd never anticipated: success was breaking her systems.
 
 "We've gone from 127 monthly opportunities to 298," Sarah reported to the executive team. "Our SMS response rates are holding at 31%. But we're seeing cracks in our infrastructure."
 
@@ -38,7 +38,7 @@ The system used capacity-based routing with surge management. During normal peri
 
 But routing alone wasn't enough. Sarah needed backup systems that ensured no lead was missed, even when primary reps were unavailable. The reality of enterprise operations meant reps took breaks, attended meetings, and occasionally missed notifications. The system needed to handle these situations automatically without degrading response times.
 
-The system worked in layers. Primary routing happened within 30 seconds—immediate assignment to best-available rep, multi-channel notification delivery, automatic SMS template preparation. If the primary rep didn't acknowledge within 30 seconds, secondary routing kicked in—escalation to backup reps, team-based routing for overflow, manager notification. At 90 seconds, tertiary routing activated—cross-team routing for critical leads, executive escalation for high-value opportunities, automated holding patterns that sent initial SMS to prospects while TechFlow resolved internal issues.
+The system worked in layers. Primary routing happened within 30 seconds—immediate assignment to best-available rep, multi-channel notification delivery, automatic SMS template preparation. If the primary rep didn't acknowledge within 30 seconds, secondary routing kicked in—escalation to backup reps, team-based routing for overflow, manager notification. At 90 seconds, tertiary routing activated—cross-team routing for critical leads, executive escalation for high-value opportunities, automated holding patterns that sent initial SMS to prospects while Velocity Lending resolved internal issues.
 
 "The backup layers aren't just redundancy," Sarah explained to her team. "They're how we maintain our two-minute response commitment even when things don't go perfectly. The consumer doesn't know or care that our first rep was in a meeting. They just know they got our SMS within two minutes."
 
@@ -62,7 +62,7 @@ Sarah also built capacity forecasting. The system tracked historical lead patter
 
 ## System Reliability Infrastructure
 
-With routing and capacity solved, Sarah tackled reliability. Speed-to-lead meant nothing if systems went down during peak periods. She'd watched competitors lose entire days of leads when their primary SMS provider experienced outages. TechFlow couldn't afford that risk.
+With routing and capacity solved, Sarah tackled reliability. Speed-to-lead meant nothing if systems went down during peak periods. She'd watched competitors lose entire days of leads when their primary SMS provider experienced outages. Velocity Lending couldn't afford that risk.
 
 She implemented redundancy at every potential failure point. Multiple SMS gateway providers with automatic failover—if the primary gateway failed or delayed, the system instantly switched to backup without human intervention. Database replication ensured lead data was never lost even if a server failed. Distributed server architecture prevented any single point of failure from taking down the entire system.
 

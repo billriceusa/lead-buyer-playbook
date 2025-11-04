@@ -1,6 +1,6 @@
 # Omnichannel Outreach Playbook
 
-Six months after implementing TechFlow's enterprise-scale speed-to-lead systems, Sarah discovered a pattern in her performance data that revealed both opportunity and challenge. The monthly review showed excellent overall results, but significant variations lurked beneath the averages.
+Six months after implementing Velocity Lending's enterprise-scale speed-to-lead systems, Sarah discovered a pattern in her performance data that revealed both opportunity and challenge. The monthly review showed excellent overall results, but significant variations lurked beneath the averages.
 
 "Our SMS response rates are at 31%, and appointment booking is at 28%," Sarah reported to the executive team. "But we're seeing massive variations across different lead sources and demographics. Some segments respond beautifully to our current approach, while others seem to prefer completely different communication styles."
 
@@ -38,7 +38,7 @@ The system also captured explicit preferences. Lead forms included a simple ques
 
 Sarah built adaptive sequencing based on these preferences. Prospects who showed SMS preference received SMS-heavy sequences with minimal email. Email-preferring prospects received detailed emails with occasional SMS reminders. Multi-channel prospects received coordinated sequences across channels.
 
-But Sarah maintained two critical rules: respect explicit opt-outs regardless of performance, and never overwhelm prospects with multi-channel bombardment. If someone said "no calls," no calls meant no calls—even if TechFlow's data showed calls converted better for that segment. If someone engaged via email, they didn't need daily SMS reminders.
+But Sarah maintained two critical rules: respect explicit opt-outs regardless of performance, and never overwhelm prospects with multi-channel bombardment. If someone said "no calls," no calls meant no calls—even if Velocity Lending's data showed calls converted better for that segment. If someone engaged via email, they didn't need daily SMS reminders.
 
 "Consumer respect isn't just compliance," Sarah explained. "It's how we build trust that leads to conversion."
 
@@ -46,7 +46,7 @@ But Sarah maintained two critical rules: respect explicit opt-outs regardless of
 
 With preference detection working, Sarah tackled orchestration—coordinating multiple channels to create seamless experiences rather than disconnected touches.
 
-The challenge was complexity. Each lead source had different characteristics. Each demographic showed different patterns. Each stage of the buying journey required different approaches. Without coordination, TechFlow's outreach would feel scattered and inconsistent.
+The challenge was complexity. Each lead source had different characteristics. Each demographic showed different patterns. Each stage of the buying journey required different approaches. Without coordination, Velocity Lending's outreach would feel scattered and inconsistent.
 
 Sarah designed sequence frameworks that adapted to preference while maintaining coordination.
 
@@ -70,7 +70,7 @@ When a prospect responded via any channel, the system alerted the assigned rep a
 
 The rep could send the recommended template with one click, personalize it, or write custom messaging. But they didn't need to remember which sequence this prospect was in, which channels they preferred, or what previous communications they'd received. The system handled orchestration; the rep handled conversation.
 
-This approach scaled. When TechFlow added a new communication channel or sequence type, the system absorbed the complexity. Reps' jobs stayed the same: have quality conversations with interested prospects.
+This approach scaled. When Velocity Lending added a new communication channel or sequence type, the system absorbed the complexity. Reps' jobs stayed the same: have quality conversations with interested prospects.
 
 ## Six Months Later
 
@@ -86,6 +86,6 @@ Sarah's team, who'd been skeptical of the complexity, became advocates. "It's ac
 
 ## Moving Forward
 
-Sarah's omnichannel orchestration solved the channel coordination challenge, but it revealed the next problem: trust. Getting messages to prospects through their preferred channels was valuable. But getting them to actually engage, share information, and move forward required building trust quickly with people who'd never met TechFlow before.
+Sarah's omnichannel orchestration solved the channel coordination challenge, but it revealed the next problem: trust. Getting messages to prospects through their preferred channels was valuable. But getting them to actually engage, share information, and move forward required building trust quickly with people who'd never met Velocity Lending before.
 
 The next challenge would be understanding how to build credibility and trust in the first few interactions—how to move from stranger to trusted advisor in the compressed timeline of modern B2C sales.

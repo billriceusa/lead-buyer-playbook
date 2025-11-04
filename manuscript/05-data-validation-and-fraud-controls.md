@@ -4,13 +4,13 @@ Three weeks after implementing source transparency requirements, Sarah was stari
 
 "These leads are getting weird," Mike Rodriguez, her VP of Sales, said during their weekly pipeline review. "Half the phone numbers go to people who say they never filled out any forms. We're getting angry callbacks from people asking why we're contacting them."
 
-Sarah pulled up her vendor performance data. Three mid-tier vendors—FastLeads, ConvertPro, and DirectResponse Solutions—were showing significantly worse contact rates than their historical averages. But they were also the cheapest vendors, and the volume was helping TechFlow hit monthly targets.
+Sarah pulled up her vendor performance data. Three mid-tier vendors—FastLeads, ConvertPro, and DirectResponse Solutions—were showing significantly worse contact rates than their historical averages. But they were also the cheapest vendors, and the volume was helping Velocity Lending hit monthly targets.
 
 "Something's not right here," Sarah muttered, deciding to investigate personally.
 
 She spent the afternoon calling 20 leads from each problematic vendor to see what was happening.
 
-**FastLeads Results:** Out of 20 calls, 12 people had never heard of TechFlow and denied filling out any forms. Three phone numbers were disconnected. Two people were angry and demanded removal from all lists. Only three people remembered potentially showing interest.
+**FastLeads Results:** Out of 20 calls, 12 people had never heard of Velocity Lending and denied filling out any forms. Three phone numbers were disconnected. Two people were angry and demanded removal from all lists. Only three people remembered potentially showing interest.
 
 **ConvertPro Results:** Eight people denied ever filling out forms. Four phone numbers went to completely wrong people. Three people said they filled out "some form online" but couldn't remember for what. Five people were genuinely interested and remembered requesting information.
 
@@ -58,7 +58,7 @@ Sarah didn't need complex machine learning. Simple rules caught most problems: i
 
 The initial form required only email, phone, and basic interest indication—enough to start a conversation but not so much that it hurt conversion rates. Within two minutes of form submission, an automated email arrived asking prospects to confirm their interest and provide additional details through a secure link. Legitimate prospects clicked the link and provided information. Fake leads never engaged.
 
-The phone conversation became the second verification layer. Sarah's team confirmed contact information, verified the prospect actually remembered filling out the form, and assessed genuine interest through qualifying questions. People who couldn't remember submitting a form or seemed confused about why TechFlow was calling were flagged for investigation.
+The phone conversation became the second verification layer. Sarah's team confirmed contact information, verified the prospect actually remembered filling out the form, and assessed genuine interest through qualifying questions. People who couldn't remember submitting a form or seemed confused about why Velocity Lending was calling were flagged for investigation.
 
 Only leads that passed these progressive checks—valid data, engaged with email, confirmed interest on phone call—moved to the sales team's priority queue for immediate follow-up. Leads that passed basic validation but didn't engage received lower-priority nurturing sequences.
 
@@ -70,7 +70,7 @@ Source-level tracking also revealed fraud patterns. DirectResponse Solutions had
 
 **Layer 5: Sales Feedback Loop** provided real-world validation of lead quality. Sarah's sales team reported back on which leads actually answered phones, which contact information was accurate, which leads converted to opportunities, and patterns they noticed about different sources. This qualitative feedback complemented quantitative metrics and often identified problems before they appeared in the data.
 
-Mike's team started flagging vendors and sources that consistently delivered leads who "never filled out any form." Sarah investigated those patterns and discovered that several traffic sources were using misleading landing pages that didn't clearly explain what prospects were signing up for. She required vendors to fix disclosure language or lose TechFlow's business.
+Mike's team started flagging vendors and sources that consistently delivered leads who "never filled out any form." Sarah investigated those patterns and discovered that several traffic sources were using misleading landing pages that didn't clearly explain what prospects were signing up for. She required vendors to fix disclosure language or lose Velocity Lending's business.
 
 ## Three Months Later
 

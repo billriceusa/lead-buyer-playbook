@@ -4,7 +4,7 @@ Eighteen months into her lead generation transformation, Sarah discovered a gap 
 
 "Our lead volume has tripled to 4,100 monthly leads, our portfolio management is delivering predictable performance, and our systems are leak-proof," Sarah reported to the executive team. "But our conversion rates vary wildly by lead source—from 18% for our premium sources down to 4% for standard sources. The gap isn't lead quality. It's how effectively our reps are working different lead types."
 
-The data told a clear story. TechFlow's best reps converted leads at 14-16% regardless of source. Their average reps converted premium leads at 12% but standard leads at only 5%. The performance gap suggested that top reps understood something about lead-based selling that average reps didn't.
+The data told a clear story. Velocity Lending's best reps converted leads at 14-16% regardless of source. Their average reps converted premium leads at 12% but standard leads at only 5%. The performance gap suggested that top reps understood something about lead-based selling that average reps didn't.
 
 Mike Rodriguez, VP of Sales, raised the critical issue: "Sarah, we're bringing in diverse lead sources with different characteristics, expectations, and conversion requirements. But we're training our team like all leads are the same. We need sales enablement specifically designed for lead-based selling."
 
@@ -20,7 +20,7 @@ Average performers used one approach for all leads. They didn't understand or le
 
 The conversion gap was massive. Top performers converted exclusive leads at 18% and shared leads at 11%. Average performers converted exclusive leads at 12% and shared leads at 4%. The 7-point gap on shared leads represented millions in lost revenue annually.
 
-Sarah also discovered that source-specific knowledge wasn't intuitive. New reps took 4-6 months to develop the pattern recognition that top performers had built over years. TechFlow was losing opportunities while reps learned through trial and error what could be taught systematically.
+Sarah also discovered that source-specific knowledge wasn't intuitive. New reps took 4-6 months to develop the pattern recognition that top performers had built over years. Velocity Lending was losing opportunities while reps learned through trial and error what could be taught systematically.
 
 ## Building Source Intelligence Systems
 
@@ -70,7 +70,7 @@ New rep ramp time had dropped from 4-6 months to 2-3 months. Source-specific tra
 
 Most importantly, the performance gap between best and average reps had shrunk from 7.4 percentage points to 5.4 points. Sarah was systematically sharing what top performers knew with the entire team.
 
-The business impact was substantial. Better conversion across all sources meant TechFlow extracted more value from every lead dollar spent. The improvement represented $1.8 million in additional annual revenue from the same lead investment.
+The business impact was substantial. Better conversion across all sources meant Velocity Lending extracted more value from every lead dollar spent. The improvement represented $1.8 million in additional annual revenue from the same lead investment.
 
 ## The Complete Framework
 

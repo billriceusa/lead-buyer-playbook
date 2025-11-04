@@ -1,10 +1,10 @@
 # Lead Mix, Forecasting, and Budget Allocation
 
-Six months after implementing TechFlow's leak-proof RevOps system, Sarah faced a challenge that would test her ability to think strategically about lead generation at enterprise scale. The quarterly board meeting had just concluded, and the growth targets for the coming year were ambitious.
+Six months after implementing Velocity Lending's leak-proof RevOps system, Sarah faced a challenge that would test her ability to think strategically about lead generation at enterprise scale. The quarterly board meeting had just concluded, and the growth targets for the coming year were ambitious.
 
 "We need to triple our qualified lead volume while maintaining our current cost per acquisition," announced CEO Michael Torres. "The market opportunity is there, our systems are proven, and our investors are ready to fund growth. Sarah, I need you to build a lead generation strategy that can scale systematically without breaking our unit economics."
 
-Sarah looked at the numbers. TechFlow was currently processing 2,400 qualified leads per month with a blended cost per lead of $127 and a lead-to-customer conversion rate of 14.2%. Tripling that volume meant reaching 7,200 qualified leads monthly while maintaining quality and profitability.
+Sarah looked at the numbers. Velocity Lending was currently processing 2,400 qualified leads per month with a blended cost per lead of $127 and a lead-to-customer conversion rate of 14.2%. Tripling that volume meant reaching 7,200 qualified leads monthly while maintaining quality and profitability.
 
 "It's not just about buying more leads from our current sources," Sarah realized. "At that scale, we'll need a sophisticated portfolio approach—mixing first-party generation, multiple third-party sources, different lead types, and various pricing models."
 
@@ -20,7 +20,7 @@ Third-party lead sources represented 78% of volume. Premium financial comparison
 
 First-party lead sources represented only 22% of volume but showed superior economics. Organic search and SEO generated 12% of leads at $67 CPL with 18.9% conversion. Content marketing contributed 6% at $89 CPL with 15.3% conversion. Referral programs delivered 4% at $45 CPL with 22.1% conversion.
 
-The imbalance was dangerous. TechFlow was heavily dependent on third-party sources over which they had limited control. Vendors could raise prices, reduce quality, or be acquired by competitors. The first-party sources that delivered best economics represented less than a quarter of volume.
+The imbalance was dangerous. Velocity Lending was heavily dependent on third-party sources over which they had limited control. Vendors could raise prices, reduce quality, or be acquired by competitors. The first-party sources that delivered best economics represented less than a quarter of volume.
 
 "This portfolio wouldn't pass any risk management test," Sarah told Marcus. "We're over-concentrated in expensive, vendor-dependent sources while under-investing in the channels that deliver our best returns."
 
@@ -52,7 +52,7 @@ Sarah built a forecasting model with three components.
 
 **Capacity Forecasting** predicted sales team needs based on lead forecasts and handling requirements. Different lead sources required different sales effort—exclusive leads needed quick response but fewer touches, shared leads required persistent follow-up. The model translated lead forecasts into required sales capacity, alerting Sarah when hiring or scaling was needed.
 
-The forecasting system proved invaluable during TechFlow's first scaling attempt. In March, three vendors simultaneously underdelivered by 15-20%. Without forecasting, this would have been a crisis. With forecasting, Sarah saw the gap developing two weeks early. She accelerated testing tier investments, increased budget to growth tier sources with available capacity, and worked with underdelivering vendors to understand and resolve issues. TechFlow hit volume targets despite the vendor problems.
+The forecasting system proved invaluable during Velocity Lending's first scaling attempt. In March, three vendors simultaneously underdelivered by 15-20%. Without forecasting, this would have been a crisis. With forecasting, Sarah saw the gap developing two weeks early. She accelerated testing tier investments, increased budget to growth tier sources with available capacity, and worked with underdelivering vendors to understand and resolve issues. Velocity Lending hit volume targets despite the vendor problems.
 
 ## Dynamic Budget Allocation
 
@@ -68,7 +68,7 @@ Testing tier sources had strict graduation criteria. To move from testing to fou
 
 ## Six Months Later
 
-When Sarah reviewed results six months after implementing strategic portfolio management, TechFlow was processing 4,100 qualified leads monthly—70% of the way to their tripling goal.
+When Sarah reviewed results six months after implementing strategic portfolio management, Velocity Lending was processing 4,100 qualified leads monthly—70% of the way to their tripling goal.
 
 More importantly, the portfolio structure had fundamentally improved their strategic position. Third-party dependence had dropped from 78% to 68% as first-party sources scaled. Vendor concentration had decreased—no single vendor represented more than 18% of volume. Cost per opportunity had actually declined 12% despite volume growth because higher-quality sources received more budget.
 

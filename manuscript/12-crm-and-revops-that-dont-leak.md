@@ -6,7 +6,7 @@ Fifteen months after beginning her lead generation transformation, Sarah faced a
 
 Sarah felt her stomach drop. She'd spent fifteen months optimizing contact rates, trust-building, and sales cycle acceleration. But if leads were falling through cracks in their systems, all that optimization was meaningless.
 
-The investigation revealed that TechFlow's rapid growth had exposed weaknesses in their CRM and RevOps infrastructure. Leads were being assigned to reps who'd left the company. Opportunities were stuck in outdated pipeline stages. Integration errors between their lead management system and CRM were causing data loss. Manual processes that worked at 1,000 leads monthly were breaking down at 4,000 leads monthly.
+The investigation revealed that Velocity Lending's rapid growth had exposed weaknesses in their CRM and RevOps infrastructure. Leads were being assigned to reps who'd left the company. Opportunities were stuck in outdated pipeline stages. Integration errors between their lead management system and CRM were causing data loss. Manual processes that worked at 1,000 leads monthly were breaking down at 4,000 leads monthly.
 
 "We've been optimizing the front door while the back door was wide open," Sarah told Marcus Chen, the CFO. "We need to build RevOps infrastructure that doesn't leak opportunities regardless of volume or complexity."
 
@@ -16,7 +16,7 @@ Sarah conducted a comprehensive audit of where and how opportunities were being 
 
 **Lead Routing Leaks** occurred when leads weren't assigned properly. The automated routing system had hardcoded rep assignments that became outdated when team members left or changed roles. Backup routing didn't activate when primary reps were unavailable. New lead sources hadn't been configured properly in routing rules.
 
-The result: 347 leads over three months never reached anyone. They sat in a system queue, aging and becoming worthless while TechFlow paid for them.
+The result: 347 leads over three months never reached anyone. They sat in a system queue, aging and becoming worthless while Velocity Lending paid for them.
 
 **Data Quality Leaks** happened when information degraded or disappeared. Integration errors between systems caused data loss. Manual data entry created inconsistencies. Duplicate records confused attribution. Missing required fields prevented proper processing.
 
@@ -68,12 +68,12 @@ Data quality scores had climbed from 67% to 94%. Reps spent less time dealing wi
 
 Process completion rates had improved from 73% to 96%. Opportunities moved systematically through stages with proper ownership and follow-up at each step.
 
-Most importantly, the $2.3 million in lost revenue per quarter had been recovered. TechFlow's systems now captured and converted nearly every opportunity that entered the pipeline.
+Most importantly, the $2.3 million in lost revenue per quarter had been recovered. Velocity Lending's systems now captured and converted nearly every opportunity that entered the pipeline.
 
-The infrastructure also enabled Sarah's next challenge: scaling to even higher volumes. With leak-proof systems, TechFlow could confidently grow lead volume knowing their infrastructure would handle the load without losing opportunities.
+The infrastructure also enabled Sarah's next challenge: scaling to even higher volumes. With leak-proof systems, Velocity Lending could confidently grow lead volume knowing their infrastructure would handle the load without losing opportunities.
 
 ## Moving Forward
 
-Sarah's RevOps transformation solved the operational infrastructure challenge, completing the operational excellence pillar of her lead generation framework. But as TechFlow prepared to scale to 7,200 monthly leads—triple their original volume—Sarah faced a new challenge: ensuring her sales team could effectively convert the diverse mix of lead sources she was building through strategic portfolio management.
+Sarah's RevOps transformation solved the operational infrastructure challenge, completing the operational excellence pillar of her lead generation framework. But as Velocity Lending prepared to scale to 7,200 monthly leads—triple their original volume—Sarah faced a new challenge: ensuring her sales team could effectively convert the diverse mix of lead sources she was building through strategic portfolio management.
 
 The final piece would be sales enablement specifically designed for lead-based selling—arming reps with source-specific intelligence, messaging frameworks, and conversion tools that maximized the value of every lead regardless of where it came from.
