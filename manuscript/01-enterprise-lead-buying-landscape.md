@@ -98,13 +98,13 @@ At enterprise scale:
 
 Two weeks after Marcus's call, Sarah walked into her CEO's office with a comprehensive plan. But more importantly, she'd developed a framework for thinking about enterprise lead buying that would transform how they operated.
 
-She'd realized that enterprise lead buying wasn't one discipline—it was five interconnected capabilities that worked together as a system:
+She'd realized that enterprise lead buying wasn't one discipline—it was four interconnected capabilities that worked together as a system:
 
-### The Five Pillars of Enterprise Lead Buying
+### The Four Pillars of Enterprise Lead Buying
 
-**Pillar 1: Strategic Vendor Ecosystem Management**
+**Pillar 1: Strategic Foundation**
 
-This is where most teams begin, but few do it strategically. It's not about finding vendors—it's about building a vendor portfolio that delivers predictable performance while managing dependency risk.
+This is where most teams begin, but few do it strategically. It's not about finding vendors—it's about building a vendor portfolio that delivers predictable performance while managing dependency risk, and understanding the economic fundamentals that drive the entire ecosystem.
 
 Sarah's framework started with three principles:
 
@@ -114,7 +114,7 @@ Sarah's framework started with three principles:
 
 This pillar is where you evolve from tactical buyer to strategic lead generation partner—understanding not just how to buy leads, but how leads are made, what drives quality, and how to build collaborative relationships that improve over time.
 
-*This foundation is explored in:*
+*This foundation is built through:*
 - **Chapter 2: Becoming a Lead Strategist** — How to evolve your role and organization
 - **Chapter 3: Markets, Pricing, and Unit Economics** — Understanding the economics that drive vendor behavior
 - **Chapter 4: How Leads Are Made** — The channels, quality signals, and anatomy of lead generation
@@ -155,7 +155,7 @@ This is where many teams lose 30-50% of their lead investment—not in vendor qu
 - **Chapter 11: Sales Cycle Acceleration Framework** — Moving prospects to close faster
 - **Chapter 12: CRM and RevOps That Don't Leak** — Infrastructure that maintains data integrity
 
-**Pillar 4: Financial Intelligence**
+**Pillar 4: Financial Intelligence & Enablement**
 
 Sarah's hidden cost discovery changed how she thought about vendor economics. Optimizing for lowest cost per lead had led to higher total costs and worse performance. She needed to shift to cost per opportunity optimization—total cost of ownership across the entire conversion funnel.
 
@@ -163,46 +163,14 @@ Financial intelligence in lead buying means:
 
 - **Total cost modeling:** Understanding all costs, not just purchase prices
 - **Mix optimization:** Portfolio construction that balances performance, risk, and cost
-- **Value-based scoring:** Lead prioritization that drives sales efficiency
-- **Attribution:** Understanding what actually drives conversions and revenue
+- **Team enablement:** Aligning sales execution with lead acquisition strategy
+- **Forecasting discipline:** Predictable planning and budget allocation
 
-This pillar transforms lead buying from a cost center to a strategic investment with measurable ROI and predictable returns.
+This pillar transforms lead buying from a cost center to a strategic investment with measurable ROI and predictable returns. It connects acquisition strategy directly to sales execution, ensuring every dollar spent on leads is matched with the capability to convert them.
 
 *These capabilities are developed through:*
 - **Chapter 13: Lead Mix Forecasting and Budget Allocation** — Portfolio optimization at scale
 - **Chapter 14: Sales Enablement for Lead Buyers** — Aligning acquisition with conversion
-- **Chapter 15: Practical Lead Scoring** — Value-based prioritization systems
-- **Chapter 16: Analytics and Attribution That Inform Spend** — Measurement frameworks that drive decisions
-
-**Pillar 5: Continuous Optimization**
-
-The framework Sarah built wasn't static—it was designed for continuous improvement. This final pillar focuses on systematic testing, technology adoption, and strategic decisions that compound over time.
-
-Continuous optimization includes:
-
-- **Testing frameworks:** Structured approaches to vendor testing and mix optimization
-- **Technology leverage:** AI and automation that scales your capabilities
-- **Strategic decisions:** Build vs. buy, content development, referral programs
-- **Long-term value:** CLV optimization and database monetization
-
-This is where good lead buying programs become great—through systematic improvement cycles that compound quarterly.
-
-*These advanced capabilities are covered in:*
-- **Chapter 17: Tests That Actually Move Numbers** — Structured experimentation frameworks
-- **Chapter 18: AI You Can Use This Quarter** — Practical automation and intelligence
-- **Chapter 19: Build vs. Buy: Compounding Effects** — Strategic sourcing decisions
-- **Chapter 20: Content, SEO, and Referral Programs** — Building owned acquisition channels
-- **Chapter 21: CLV and Database Monetization** — Long-term value optimization
-- **Chapter 22: Closing Frameworks That Work Across Industries** — Universal conversion principles
-
-### Industry Application
-
-While the Five Pillars framework applies universally, each industry has unique characteristics that influence implementation. The final section of this book translates these principles into industry-specific playbooks:
-
-- **Chapter 23: Mortgage and Real Estate Investors** — High-value, long-cycle sales
-- **Chapter 24: Insurance and Healthcare** — Regulatory complexity and compliance
-- **Chapter 25: Solar and Home Improvement** — In-home sales and consultation models
-- **Chapter 26: Education** — Lead nurturing and program matching
 
 ## Sarah's Transformation: Three Months Later
 
@@ -268,23 +236,21 @@ Throughout this book, we'll specify which conversion metric we're referencing. W
 
 Sarah's crisis forced her to build a systematic approach to enterprise lead buying. Your advantage is that you can build that same system proactively, learning from her experience without going through the crisis.
 
-This book follows the framework Sarah discovered—the Five Pillars of Enterprise Lead Buying. Each chapter unpacks one specific capability, providing frameworks, tools, and implementation guidance you can use immediately.
+This book follows the framework Sarah discovered—the Four Pillars of Enterprise Lead Buying. Each chapter unpacks one specific capability, providing frameworks, tools, and implementation guidance you can use immediately.
 
 Here's how to think about your journey:
 
-**If you're facing an immediate vendor crisis** (price increases, quality drops, dependency risk), start with Chapters 2-4 on Strategic Vendor Ecosystem Management. These chapters give you the immediate tools to stabilize and diversify your vendor relationships.
+**If you're facing an immediate vendor crisis** (price increases, quality drops, dependency risk), start with Chapters 2-4 on Strategic Foundation. These chapters give you the immediate tools to stabilize and diversify your vendor relationships while understanding the economic fundamentals driving the ecosystem.
 
 **If you're worried about compliance or data quality**, jump to Chapters 5-6 on Risk Management & Compliance. These provide systematic frameworks for protecting your business from regulatory exposure and fraud.
 
-**If your conversion rates are disappointing**, focus on Chapters 7-12 on Operational Excellence. The best vendors can't overcome poor operational execution—these chapters fix the leaks in your funnel.
+**If your conversion rates are disappointing**, focus on Chapters 7-12 on Operational Excellence. The best vendors can't overcome poor operational execution—these chapters fix the leaks in your funnel and build systems that maximize every lead's potential.
 
-**If you're struggling to prove ROI or justify spend**, Chapters 13-16 on Financial Intelligence provide the analytical frameworks and measurement systems that demonstrate value and inform allocation decisions.
+**If you're struggling to prove ROI or justify spend**, Chapters 13-14 on Financial Intelligence & Enablement provide the forecasting frameworks and sales enablement systems that connect acquisition to conversion, demonstrating value and informing allocation decisions.
 
-**If you're ready to level up from good to great**, Chapters 17-22 on Continuous Optimization provide advanced strategies for testing, technology adoption, and building compounding advantages over time.
+**Chapter 15: Conclusion** ties everything together with a 90-day action plan and the three critical mindset shifts that separate strategic lead buyers from tactical ones.
 
-**If you need industry-specific guidance**, Chapters 23-26 translate the universal principles into tailored playbooks for mortgage, insurance, solar, and education verticals.
-
-But I'd recommend reading sequentially, at least through the first 22 chapters. Each pillar builds on the previous one. Sarah discovered that strategic vendor management requires compliance frameworks, operational excellence needs financial intelligence, and optimization requires all four foundational pillars working together.
+But I'd recommend reading sequentially. Each pillar builds on the previous one. Sarah discovered that strategic vendor management requires compliance frameworks, operational excellence needs financial intelligence, and everything works better when your team is properly enabled. The conclusion then gives you a clear roadmap to implement everything you've learned.
 
 ## A Question to Consider
 
