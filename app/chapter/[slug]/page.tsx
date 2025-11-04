@@ -129,7 +129,7 @@ export default function ChapterPage({ params }: ChapterPageProps) {
 
       {/* Footer */}
       <footer className="mt-16 pb-8 text-center text-sm text-slate-600">
-        <p>© {new Date().getFullYear()} Lead Buyer Playbook. All rights reserved.</p>
+        <p>© {new Date().getFullYear()} <a href="https://billrice.com" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:text-blue-700 hover:underline">Bill Rice</a>. All rights reserved.</p>
       </footer>
     </div>
   );

@@ -11,8 +11,11 @@ export default function HomePage() {
           <h1 className="text-4xl sm:text-5xl font-bold text-slate-900 mb-4">
             Lead Buyer Playbook
           </h1>
-          <p className="text-xl text-slate-600 max-w-2xl mx-auto">
+          <p className="text-xl text-slate-600 max-w-2xl mx-auto mb-3">
             The Enterprise Guide to Buying and Converting Leads Profitably
+          </p>
+          <p className="text-lg text-slate-500">
+            by <a href="https://billrice.com" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:text-blue-700 hover:underline font-medium">Bill Rice</a>
           </p>
         </header>
 
@@ -50,7 +53,7 @@ export default function HomePage() {
         </div>
 
         <footer className="mt-12 text-center text-sm text-slate-600">
-          <p>© {new Date().getFullYear()} Lead Buyer Playbook. All rights reserved.</p>
+          <p>© {new Date().getFullYear()} <a href="https://billrice.com" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:text-blue-700 hover:underline">Bill Rice</a>. All rights reserved.</p>
         </footer>
       </div>
     </div>
