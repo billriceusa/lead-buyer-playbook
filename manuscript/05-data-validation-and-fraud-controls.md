@@ -1,5 +1,7 @@
 # Chapter 5: Data, Validation, and Fraud Controls
 
+## Pillar 2: Risk Management & Compliance
+
 Three weeks after learning about lead generation channels from Jessica Chen, Sarah was staring at her monthly performance dashboard with growing concern. The numbers told a troubling story that was becoming impossible to ignore.
 
 Contact rates had dropped from 18% to 12% over the past two months. Email bounce rates were climbing. Most concerning, her sales team was increasingly frustrated with lead quality.

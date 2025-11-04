@@ -1,12 +1,14 @@
 # Chapter 2: Becoming a Lead Strategist
 
+## Pillar 1: Strategic Vendor Ecosystem Management
+
 Three months after Sarah's vendor dependency crisis, she found herself sitting in yet another conference room. But this time, the energy was different. The quarterly pipeline review that had once been a source of dread was now a strategic planning session that the entire revenue team actually wanted to attend.
 
 "Last quarter, we increased our pipeline by 35% while reducing our cost per opportunity by 28%," Sarah reported to the executive team. "But more importantly, we've built the foundation for sustainable, predictable growth."
 
 Her CEO leaned forward. "Sarah, I've been thinking. What would it take to scale this approach? Not just for our team, but as a competitive advantage?"
 
-That question would change everything. Because what Sarah had discovered over those three months wasn't just how to fix broken vendor relationships—she'd uncovered how to transform from a tactical lead buyer into a strategic demand generation leader.
+That question launched a new phase of Sarah's journey. Because what she had discovered over those three months wasn't just how to fix broken vendor relationships—she'd uncovered how to transform from a tactical lead buyer into a strategic demand generation leader.
 
 The journey from tactical to strategic isn't just about changing your title or expanding your responsibilities. It's about fundamentally shifting how you think about leads, how you measure success, and how you drive growth that compounds over time.
 
@@ -47,9 +49,9 @@ Here's how this plays out in practice:
 **Tactical thinking optimizes for:** Immediate ROI and quarterly targets.
 **Strategic thinking optimizes for:** Compound growth and long-term market position.
 
-This shift in thinking changes everything about how you approach your role. Instead of managing campaigns, you're building systems. Instead of optimizing metrics, you're developing capabilities. Instead of reacting to market changes, you're anticipating and preparing for them.
+This shift in thinking transforms how you approach your role. Instead of managing campaigns, you're building systems. Instead of optimizing metrics, you're developing capabilities. Instead of reacting to market changes, you're anticipating and preparing for them.
 
-## The Framework That Changes Everything
+## The Maturity Framework
 
 After working with dozens of enterprise teams through this transition, I've identified a maturity framework that predicts which organizations will scale successfully and which will plateau.
 

@@ -1,5 +1,7 @@
 # Chapter 17: Tests That Actually Move Numbers
 
+## Pillar 5: Continuous Optimization
+
 Eight months after implementing TechFlow's sophisticated attribution analytics system, Sarah faced a challenge that would test her team's ability to translate measurement intelligence into systematic performance improvement. The quarterly business review had revealed a troubling pattern that threatened to undermine all their optimization progress.
 
 "We're running 23 different tests across our lead generation operations," Sarah reported to the executive team. "But when I analyze the results, only 4 of those tests have produced statistically significant improvements that actually changed our business outcomes. We're spending enormous time and resources on testing activities that aren't moving the needle."

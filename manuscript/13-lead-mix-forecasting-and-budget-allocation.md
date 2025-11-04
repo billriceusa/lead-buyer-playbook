@@ -1,5 +1,7 @@
 # Chapter 13: Lead Mix, Forecasting, and Budget Allocation
 
+## Pillar 4: Financial Intelligence
+
 Six months after implementing TechFlow's leak-proof RevOps system, Sarah faced a challenge that would test her ability to think strategically about lead generation at enterprise scale. The quarterly board meeting had just concluded, and the growth targets for the coming year were ambitious—almost aggressive.
 
 "We need to triple our qualified lead volume while maintaining our current cost per acquisition and conversion quality," announced CEO Michael Torres during the post-board strategy session. "The market opportunity is there, our systems are proven, and our investors are ready to fund growth. Sarah, I need you to build a lead generation strategy that can scale systematically without breaking our unit economics."
@@ -815,7 +817,7 @@ Based on TechFlow's experience and Sarah's work with other companies, here's a p
 
 As Sarah reflected on TechFlow's transformation from tactical lead buying to strategic portfolio management, she realized that the change had been about much more than optimizing individual lead sources.
 
-"Portfolio thinking changed everything about how we approach lead generation," Sarah explained to a group of industry executives. "Instead of reacting to individual source performance, we became strategic about building a diversified, scalable, predictable lead generation engine that could support our growth objectives while managing risk and maintaining quality."
+"Portfolio thinking transformed our approach to lead generation," Sarah explained to a group of industry executives. "Instead of reacting to individual source performance, we became strategic about building a diversified, scalable, predictable lead generation engine that could support our growth objectives while managing risk and maintaining quality."
 
 The strategic portfolio approach had enabled TechFlow to:
 
@@ -910,6 +912,11 @@ The frameworks and tools referenced in this chapter are available for immediate 
 ---
 
 *In the next chapter, we'll explore sales enablement for lead buyers—the frameworks and systems that ensure your sales team can effectively convert your optimized lead portfolio into customers and revenue.*
+
+
+
+
+
 
 
 

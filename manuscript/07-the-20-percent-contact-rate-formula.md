@@ -1,5 +1,7 @@
 # Chapter 7: The 20%+ Contact Rate Formula
 
+## Pillar 3: Operational Excellence
+
 Eighteen months after building TechFlow's compliance foundation, Sarah faced a new challenge that would test everything she'd learned about systematic optimization. The monthly pipeline review had just ended, and the numbers told a story that was becoming impossible to ignore.
 
 "Our lead volume is up 40% year-over-year," Sarah reported to the executive team. "Our cost per lead has actually improved by 12%. But our contact rates are stuck at 14%, and that's killing our pipeline conversion."
@@ -25,7 +27,7 @@ Sarah's first step was conducting a comprehensive audit of their current contact
 
 "We're not actually bad at this," Sarah realized. "We're just average. And average isn't good enough when you're spending over a million dollars on leads."
 
-But as Sarah dug deeper into current research, she discovered something that would change everything: consumer preferences had fundamentally shifted, and most companies were still using outdated contact strategies.
+But as Sarah dug deeper into current research, she discovered a critical insight: consumer preferences had fundamentally shifted, and most companies were still using outdated contact strategies.
 
 ### The Consumer Preference Revolution
 
