@@ -14,8 +14,11 @@ export default function HomePage() {
           <p className="text-xl text-slate-600 max-w-2xl mx-auto mb-3">
             The Enterprise Guide to Buying and Converting Leads Profitably
           </p>
-          <p className="text-lg text-slate-500">
+          <p className="text-lg text-slate-500 mb-2">
             by <a href="https://billrice.com" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:text-blue-700 hover:underline font-medium">Bill Rice</a>
+          </p>
+          <p className="text-sm text-slate-400">
+            Last Updated: {new Date().toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' })}
           </p>
         </header>
 
