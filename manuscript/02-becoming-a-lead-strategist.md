@@ -1,6 +1,6 @@
 # Becoming a Lead Strategist
 
-Three months after fixing her vendor dependency crisis, Sarah sat in her CEO's office reviewing quarterly results. Pipeline was up 35%. Cost per opportunity was down 28%. Vendor risk was contained. Every metric pointed in the right direction.
+Three months after fixing her vendor dependency crisis, Sarah Mitchell sat in her CEO's office reviewing quarterly results. Pipeline was up 35%. Cost per opportunity was down 28%. Vendor risk was contained. Every metric pointed in the right direction.
 
 "Impressive work, Sarah," her CEO said, studying the presentation. "But I have a question that's been bothering me."
 
@@ -96,7 +96,7 @@ Sarah's team was converting these leads at 14% versus 6% for standard shared lea
 
 The tactical decision was to keep testing at small scale. The strategic decision was to commit to building a partnership.
 
-Sarah called the vendor CEO directly. "We want to scale to 30% of our volume over the next six months. But I need three things in return: dedicated capacity guarantees so we get priority access, collaborative roadmap planning so we can influence your product development, and exclusive rights in our region for twelve months so we can build advantage before our competitors discover you."
+Sarah Mitchell called the vendor CEO directly. "We want to scale to 30% of our volume over the next six months. But I need three things in return: dedicated capacity guarantees so we get priority access, collaborative roadmap planning so we can influence your product development, and exclusive rights in our region for twelve months so we can build advantage before our competitors discover you."
 
 It took two weeks to negotiate the partnership structure. Sarah committed to minimum volumes, premium pricing, and quarterly business reviews. The vendor committed to capacity guarantees, technology roadmap collaboration, and regional exclusivity.
 

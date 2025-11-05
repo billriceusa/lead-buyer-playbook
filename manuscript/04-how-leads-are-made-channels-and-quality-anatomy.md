@@ -1,6 +1,6 @@
 # How Leads Are Made
 
-Nine months after establishing her lead economics framework, Sarah found herself in an unusual situation. She was sitting in the operations center at LeadFlow Partners, one of the largest mortgage lead aggregators in the financial services space, watching real-time traffic flow across a dozen monitors.
+Nine months after establishing her lead economics framework, Sarah Mitchell found herself in an unusual situation. She was sitting in the operations center at LeadFlow Partners, one of the largest mortgage lead aggregators in the financial services space, watching real-time traffic flow across a dozen monitors.
 
 "Most enterprise buyers treat leads like magic," Jessica Chen, LeadFlow's Director of Operations, said as another lead appeared on the dashboard. "They know they need them, they pay for them, but they don't understand how they're actually created. That lack of understanding costs them millions in wasted spend and missed opportunities."
 
@@ -12,11 +12,11 @@ What Jessica revealed over the next three hours would fundamentally reshape how 
 
 ## Tracing a Lead's Journey
 
-"Let's trace a single lead's journey," Jessica began, pulling up a record from the previous day. "Yesterday at 9:47 AM, a 34-year-old marketing manager named David searched Google for 'best rates for home refinancing.' That search triggered a complex auction involving twelve different companies, each bidding on the click based on their predicted conversion rates."
+"Let's trace a single lead's journey," Jessica began, pulling up a record from the previous day. "Yesterday at 9:47 AM, a 34-year-old marketing manager named Brian searched Google for 'best rates for home refinancing.' That search triggered a complex auction involving twelve different companies, each bidding on the click based on their predicted conversion rates."
 
-David clicked on what appeared to be a mortgage calculator. But that calculator was actually a sophisticated lead qualification tool. Before showing him any rates, it collected his contact information, property details, credit score range, and timeline. The entire process took three minutes.
+Brian clicked on what appeared to be a mortgage calculator. But that calculator was actually a sophisticated lead qualification tool. Before showing him any rates, it collected his contact information, property details, credit score range, and timeline. The entire process took three minutes.
 
-Within seconds of David submitting his information, the lead was scored, validated, and distributed to three different lenders—including one of Sarah's competitors. They paid $115 for the shared lead. The competitor who responded in 90 seconds closed the deal. The other two lenders never reached David because he'd already moved forward.
+Within seconds of Brian submitting his information, the lead was scored, validated, and distributed to three different lenders—including one of Sarah's competitors. They paid $115 for the shared lead. The competitor who responded in 90 seconds closed the deal. The other two lenders never reached Brian because he'd already moved forward.
 
 "That's the reality of lead generation," Jessica said. "It's not just about creating interest—it's about capturing it at exactly the right moment and routing it to buyers who can act quickly enough to convert it."
 

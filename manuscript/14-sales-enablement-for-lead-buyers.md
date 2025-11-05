@@ -1,6 +1,6 @@
 # Sales Enablement for Lead Buyers
 
-Eighteen months into her lead generation transformation, Sarah discovered a gap between her strategic capabilities and her team's tactical execution. The quarterly sales performance review revealed a pattern that was both encouraging and concerning.
+Eighteen months into her lead generation transformation, Sarah Mitchell discovered a gap between her strategic capabilities and her team's tactical execution. The quarterly sales performance review revealed a pattern that was both encouraging and concerning.
 
 "Our lead volume has tripled to 4,100 monthly leads, our portfolio management is delivering predictable performance, and our systems are leak-proof," Sarah reported to the executive team. "But our conversion rates vary wildly by lead source—from 18% for our premium sources down to 4% for standard sources. The gap isn't lead quality. It's how effectively our reps are working different lead types."
 

@@ -1,6 +1,6 @@
 # Markets, Pricing, and Unit Economics
 
-Sarah was three months into her strategic partnership experiment when Marcus Chen, Velocity Lending's CFO, appeared at her office door with his laptop.
+Sarah Mitchell was three months into her strategic partnership experiment when Marcus Chen, Velocity Lending's CFO, appeared at her office door with his laptop.
 
 "I need to understand something," Marcus said, settling into the chair across from her desk. "We're spending $850,000 annually on mortgage leads across twelve vendors. Our cost per lead ranges from $31 to $180. I can't figure out if we're getting a good deal or being systematically overcharged."
 

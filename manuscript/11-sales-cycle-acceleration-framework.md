@@ -1,6 +1,6 @@
 # Sales Cycle Acceleration Framework
 
-Twelve months after implementing Velocity Lending's trust-building systems, Sarah discovered their next optimization opportunity buried in the sales metrics. The annual review showed impressive improvements across all key metrics, but one number limited their growth velocity.
+Twelve months after implementing Velocity Lending's trust-building systems, Sarah Mitchell discovered their next optimization opportunity buried in the sales metrics. The annual review showed impressive improvements across all key metrics, but one number limited their growth velocity.
 
 "Our contact rates are at 39%, our trust-building has reduced no-shows to 16%, and our lead-to-opportunity conversion is at 11.8%," Sarah reported to the executive team. "But our average sales cycle is still 127 days, which is tying up resources and limiting our growth velocity."
 

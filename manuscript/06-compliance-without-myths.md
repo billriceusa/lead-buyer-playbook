@@ -1,10 +1,10 @@
 # Compliance Without Myths
 
-Twelve months after Sarah had transformed Velocity Lending's lead generation program, she received a call that would test everything she'd learned. The caller was Rebecca Martinez, Velocity Lending's General Counsel, and her voice carried the weight of serious legal concern.
+Twelve months after Sarah Mitchell had transformed Velocity Lending's lead generation program, she received a call that would test everything she'd learned. The caller was Rebecca Martinez, Velocity Lending's General Counsel, and her voice carried the weight of serious legal concern.
 
 "Sarah, we need to talk immediately," Rebecca said. "We've received a TCPA class action notice. The plaintiff claims we called him repeatedly without consent, and he's seeking to represent a class of 'thousands of similarly situated consumers.' Potential exposure could be significant."
 
-Sarah felt her stomach drop. This was exactly what had happened to her colleague Michael—the $3.4 million potential liability that had launched her entire quality control initiative. But unlike Michael's situation, Sarah had spent the past year building comprehensive compliance systems. She had documentation, audit trails, and vendor attestations.
+Sarah felt her stomach drop. This was exactly what had happened to her colleague James—the $3.4 million potential liability that had launched her entire quality control initiative. But unlike James's situation, Sarah had spent the past year building comprehensive compliance systems. She had documentation, audit trails, and vendor attestations.
 
 "Rebecca, let me pull up our compliance documentation," Sarah said, already accessing her vendor management system. "I need to see which vendor this lead came from and what consent records we have."
 
@@ -28,7 +28,7 @@ The contact history showed five calls over two weeks—not eight as claimed—al
 
 The case was dismissed within 90 days. The plaintiff's attorney, faced with comprehensive documentation showing clear consent and proper contact practices, withdrew the complaint.
 
-"This is exactly why we built these systems," Sarah explained to Rebecca after the case closed. "Compliance isn't about avoiding every lawsuit—it's about building defensible operations that protect consumers and the business."
+"This is exactly why we built these systems," Sarah Mitchell explained to Rebecca after the case closed. "Compliance isn't about avoiding every lawsuit—it's about building defensible operations that protect consumers and the business."
 
 ## The Framework That Protects
 

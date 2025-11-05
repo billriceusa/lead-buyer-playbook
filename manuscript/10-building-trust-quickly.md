@@ -1,6 +1,6 @@
 # Building Trust Quickly
 
-Nine months after implementing Velocity Lending's omnichannel outreach system, Sarah discovered a gap in her performance funnel that revealed the next challenge. The quarterly review showed strong contact and engagement metrics, but conversion was lagging.
+Nine months after implementing Velocity Lending's omnichannel outreach system, Sarah Mitchell discovered a gap in her performance funnel that revealed the next challenge. The quarterly review showed strong contact and engagement metrics, but conversion was lagging.
 
 "Our contact rates are at 39%, our omnichannel coordination is working beautifully, and our appointment booking rate is at 36%," Sarah reported to the executive team. "But we're seeing significant drop-off between initial engagement and actual sales conversations. Thirty-four percent of appointments are no-shows, and another 23% seem hesitant and guarded during our calls."
 

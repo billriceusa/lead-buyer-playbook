@@ -1,6 +1,6 @@
 # Omnichannel Outreach Playbook
 
-Six months after implementing Velocity Lending's enterprise-scale speed-to-lead systems, Sarah discovered a pattern in her performance data that revealed both opportunity and challenge. The monthly review showed excellent overall results, but significant variations lurked beneath the averages.
+Six months after implementing Velocity Lending's enterprise-scale speed-to-lead systems, Sarah Mitchell discovered a pattern in her performance data that revealed both opportunity and challenge. The monthly review showed excellent overall results, but significant variations lurked beneath the averages.
 
 "Our SMS response rates are at 31%, and appointment booking is at 28%," Sarah reported to the executive team. "But we're seeing massive variations across different lead sources and demographics. Some segments respond beautifully to our current approach, while others seem to prefer completely different communication styles."
 

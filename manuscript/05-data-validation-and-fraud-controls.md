@@ -1,6 +1,6 @@
 # Data Validation and Fraud Controls
 
-Three weeks after implementing source transparency requirements, Sarah was staring at her monthly performance dashboard with growing alarm. Contact rates had dropped from 18% to 12% over two months. Email bounce rates were climbing. Most concerning, her sales team was increasingly frustrated.
+Three weeks after implementing source transparency requirements, Sarah Mitchell was staring at her monthly performance dashboard with growing alarm. Contact rates had dropped from 18% to 12% over two months. Email bounce rates were climbing. Most concerning, her sales team was increasingly frustrated.
 
 "These leads are getting weird," Mike Rodriguez, her VP of Sales, said during their weekly pipeline review. "Half the phone numbers go to people who say they never filled out any forms. We're getting angry callbacks from people asking why we're contacting them."
 
@@ -92,6 +92,6 @@ The validation system wasn't sophisticated technology—it was systematic thinki
 
 Sarah's quality transformation taught her a fundamental lesson: most lead quality problems aren't sophisticated fraud. They're poor practices, lack of accountability, and insufficient validation. Fix those basics consistently, and most quality problems solve themselves.
 
-But solving quality was only half the battle. Even with perfect data validation, Sarah faced another challenge: regulatory compliance. Her colleague Michael's $3.4 million potential liability kept haunting her. She needed to understand not just how to validate leads, but how to ensure every lead she bought met legal requirements for consent and disclosure.
+But solving quality was only half the battle. Even with perfect data validation, Sarah faced another challenge: regulatory compliance. Her colleague James's $3.4 million potential liability kept haunting her. She needed to understand not just how to validate leads, but how to ensure every lead she bought met legal requirements for consent and disclosure.
 
 That understanding would require confronting the compliance mythology that paralyzed many lead buyers—myths about what was actually required, what was truly risky, and how to build compliant operations without destroying conversion rates or operational efficiency.

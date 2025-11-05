@@ -1,8 +1,8 @@
 # CRM and RevOps That Don't Leak
 
-Fifteen months after beginning her lead generation transformation, Sarah faced a crisis that threatened to undermine everything she'd built. The problem emerged during a routine pipeline audit when Jennifer, her operations director, discovered something alarming.
+Fifteen months after beginning her lead generation transformation, Sarah Mitchell faced a crisis that threatened to undermine everything she'd built. The problem emerged during a routine pipeline audit when Rachel Kim, her operations director, discovered something alarming.
 
-"Sarah, we have a data integrity problem," Jennifer said, pulling up reports that showed troubling patterns. "Over the past quarter, we've had 347 leads that never got contacted, 89 opportunities that disappeared from our pipeline without explanation, and $2.3 million in potential revenue that we can't account for in our systems."
+"Sarah, we have a data integrity problem," Rachel said, pulling up reports that showed troubling patterns. "Over the past quarter, we've had 347 leads that never got contacted, 89 opportunities that disappeared from our pipeline without explanation, and $2.3 million in potential revenue that we can't account for in our systems."
 
 Sarah felt her stomach drop. She'd spent fifteen months optimizing contact rates, trust-building, and sales cycle acceleration. But if leads were falling through cracks in their systems, all that optimization was meaningless.
 

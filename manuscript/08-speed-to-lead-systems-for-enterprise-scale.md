@@ -1,6 +1,6 @@
 # Speed-to-Lead Systems for Enterprise Scale
 
-Three months after implementing Velocity Lending's SMS-first contact strategy, Sarah faced a problem she'd never anticipated: success was breaking her systems.
+Three months after implementing Velocity Lending's SMS-first contact strategy, Sarah Mitchell faced a problem she'd never anticipated: success was breaking her systems.
 
 "We've gone from 127 monthly opportunities to 298," Sarah reported to the executive team. "Our SMS response rates are holding at 31%. But we're seeing cracks in our infrastructure."
 

@@ -1,6 +1,6 @@
 # The 20%+ Contact Rate Formula
 
-Eighteen months after building Velocity Lending's compliance foundation, Sarah faced a challenge that threatened to undermine everything she'd accomplished. The monthly pipeline review had just ended, and Marcus Chen, the CFO, asked the question Sarah had been dreading.
+Eighteen months after building Velocity Lending's compliance foundation, Sarah Mitchell faced a challenge that threatened to undermine everything she'd accomplished. The monthly pipeline review had just ended, and Marcus Chen, the CFO, asked the question Sarah had been dreading.
 
 "Sarah, we're spending $1.2 million annually on leads. Our lead volume is up 40% year-over-year. Our cost per lead has improved 12%. But our contact rates are stuck at 14%. If we can't reach them, what exactly are we buying?"
 

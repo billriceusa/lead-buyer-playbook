@@ -1,6 +1,6 @@
 # Conclusion: The Lead Strategist's Journey
 
-Twenty-four months after Marcus from Apex Leads called with that 20% price increase, Sarah sat in her office reviewing Velocity Lending's transformation. The numbers told an impressive story, but the real story was about mindset shifts that turned a tactical lead buyer into a strategic revenue leader.
+Twenty-four months after Tyler from Apex Leads called with that 20% price increase, Sarah Mitchell sat in her office reviewing Velocity Lending's transformation. The numbers told an impressive story, but the real story was about mindset shifts that turned a tactical lead buyer into a strategic revenue leader.
 
 Pipeline was up 285%. Cost per opportunity was down 41%. Lead-to-customer conversion had climbed from 2.1% to 11.4%. But those metrics didn't capture what had actually changed.
 
@@ -10,11 +10,11 @@ Two years ago, Sarah had been managing vendors, optimizing cost per lead, and re
 
 Sarah's transformation required three fundamental shifts in how she thought about lead generation.
 
-**From Procurement to Partnership.** The old mindset treated vendors as suppliers to be negotiated with and squeezed for better pricing. The new mindset treated vendors as strategic partners whose success determined Velocity Lending's success. Sarah invested in vendor relationships, shared conversion data, collaborated on quality improvements, and built multi-year commitments with top partners.
+**From Procurement to Partnership.** The old mindset treated vendors as suppliers to be negotiated with and squeezed for better pricing. The new mindset treated vendors as strategic partners whose success determined Velocity Lending's success. Sarah Mitchell invested in vendor relationships, shared conversion data, collaborated on quality improvements, and built multi-year commitments with top partners.
 
 This wasn't soft thinking—it was strategic thinking. When Sarah's top vendor faced technical challenges that temporarily reduced their volume, they prioritized Velocity Lending's needs because of the partnership they'd built. When a competitor tried to poach that vendor's best traffic sources, the vendor protected Velocity Lending's access. Partnerships created advantages that procurement never could.
 
-**From Tactical Execution to Strategic Capability.** The old mindset optimized individual campaigns and sources. The new mindset built compounding capabilities that improved over time. Sarah wasn't just buying leads—she was building systems that created sustainable competitive advantages.
+**From Tactical Execution to Strategic Capability.** The old mindset optimized individual campaigns and sources. The new mindset built compounding capabilities that improved over time. Sarah Mitchell wasn't just buying leads—she was building systems that created sustainable competitive advantages.
 
 Her SMS-first contact approach delivered better results than competitors using phone-first strategies. Her compliance framework provided legal protection others lacked. Her speed-to-lead infrastructure handled surges that would overwhelm competitor systems. Her portfolio management enabled predictable scaling while others struggled with vendor dependency.
 
@@ -26,7 +26,7 @@ This shift changed every decision. She paid premium prices for exclusive leads b
 
 ## The 90-Day Action Plan
 
-Sarah's transformation took 24 months, but the core framework could be implemented in 90 days. She'd designed a phased approach for companies starting where she'd started.
+Sarah Mitchell's transformation took 24 months, but the core framework could be implemented in 90 days. She'd designed a phased approach for companies starting where she'd started.
 
 **Phase 1: Foundation (Days 1-30)** establishes the basic infrastructure and understanding required for strategic lead generation.
 
@@ -70,7 +70,7 @@ But wherever you start, remember that sustainable lead generation capability req
 
 ## The Final Question
 
-Sarah's transformation began with Marcus's phone call about a 20% price increase. But it really began with a question her CEO asked: "If your top-performing vendor disappeared tomorrow, what would happen to your pipeline?"
+Sarah Mitchell's transformation began with Tyler's phone call about a 20% price increase. But it really began with a question her CEO asked: "If your top-performing vendor disappeared tomorrow, what would happen to your pipeline?"
 
 That question revealed vendor dependency that created strategic risk. Answering it required building everything Sarah had built over 24 months—diversified portfolios, quality controls, compliance frameworks, operational excellence, and strategic capability.
 
@@ -82,7 +82,7 @@ If the answer is confident, you've built what Sarah built—strategic lead gener
 
 The companies that master strategic lead generation don't just grow faster. They grow more predictably, more profitably, and more sustainably than competitors stuck in tactical procurement mode. They turn lead generation from a cost center that requires constant justification into a strategic capability that drives competitive advantage.
 
-Sarah's journey from tactical buyer to strategic leader took 24 months and touched every aspect of how Velocity Lending approached lead generation. Your journey might be faster or slower, easier or harder, depending on where you start and what you're building toward.
+Sarah Mitchell's journey from tactical buyer to strategic leader took 24 months and touched every aspect of how Velocity Lending approached lead generation. Your journey might be faster or slower, easier or harder, depending on where you start and what you're building toward.
 
 But the destination is the same: transforming lead generation from something you buy into something you build—systematic capability that compounds over time and creates advantages competitors can't easily replicate.
 

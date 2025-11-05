@@ -1,6 +1,6 @@
 # Lead Mix, Forecasting, and Budget Allocation
 
-Six months after implementing Velocity Lending's leak-proof RevOps system, Sarah faced a challenge that would test her ability to think strategically about lead generation at enterprise scale. The quarterly board meeting had just concluded, and the growth targets for the coming year were ambitious.
+Six months after implementing Velocity Lending's leak-proof RevOps system, Sarah Mitchell faced a challenge that would test her ability to think strategically about lead generation at enterprise scale. The quarterly board meeting had just concluded, and the growth targets for the coming year were ambitious.
 
 "We need to triple our qualified lead volume while maintaining our current cost per acquisition," announced CEO Michael Torres. "The market opportunity is there, our systems are proven, and our investors are ready to fund growth. Sarah, I need you to build a lead generation strategy that can scale systematically without breaking our unit economics."
 
