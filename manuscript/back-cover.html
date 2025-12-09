@@ -23,7 +23,7 @@
             width: 5.5in;
             height: 8.5in;
             background: #F5B800;
-            padding: 0.5in 0.4in;
+            padding: 0.4in 0.4in;
             display: flex;
             flex-direction: column;
             box-shadow: 0 4px 20px rgba(0,0,0,0.3);
@@ -31,19 +31,28 @@
 
         .hook {
             text-align: center;
-            font-size: 1.4rem;
+            font-size: 1.5rem;
             font-weight: bold;
-            color: #000;
-            margin-bottom: 0.3in;
-            line-height: 1.3;
+            color: #8B0000;
+            margin-bottom: 0.25in;
+            line-height: 1.25;
         }
 
         .opening {
             text-align: center;
             font-size: 0.85rem;
+            font-style: italic;
             color: #000;
-            margin-bottom: 0.25in;
+            margin-bottom: 0.2in;
             line-height: 1.5;
+            padding: 0 0.1in;
+        }
+
+        .intro-bold {
+            font-size: 0.8rem;
+            font-weight: bold;
+            color: #000;
+            margin-bottom: 0.15in;
         }
 
         .pitch {
@@ -54,7 +63,7 @@
         }
 
         .pitch p {
-            margin-bottom: 0.15in;
+            margin-bottom: 0.12in;
         }
 
         .pitch em {
@@ -62,12 +71,12 @@
         }
 
         .pitch ul {
-            margin: 0.15in 0 0.15in 0.25in;
+            margin: 0.12in 0 0.12in 0.25in;
             padding-left: 0;
         }
 
         .pitch li {
-            margin-bottom: 0.08in;
+            margin-bottom: 0.06in;
             color: #000;
         }
 
@@ -75,21 +84,41 @@
             color: #c41e3a;
         }
 
-        .tagline {
-            text-align: center;
-            font-weight: bold;
-            font-size: 0.9rem;
+        .closing-paragraphs {
+            font-size: 0.75rem;
             color: #000;
-            margin: 0.2in 0;
-            line-height: 1.6;
+            line-height: 1.5;
+            margin-bottom: 0.15in;
+        }
+
+        .closing-paragraphs p {
+            margin-bottom: 0.1in;
+        }
+
+        .tagline-section {
+            text-align: center;
+            padding: 0.15in 0;
+            margin-bottom: 0.1in;
+        }
+
+        .tagline {
+            font-weight: bold;
+            font-size: 1.1rem;
+            color: #8B0000;
+            line-height: 1.4;
+        }
+
+        .divider {
+            width: 100%;
+            height: 3px;
+            background: #c41e3a;
+            margin: 0.1in 0;
         }
 
         .about-section {
             display: flex;
             gap: 0.2in;
-            margin-bottom: 0.25in;
-            padding-top: 0.15in;
-            border-top: 2px solid #c41e3a;
+            margin-bottom: 0.15in;
         }
 
         .about-text {
@@ -97,16 +126,21 @@
         }
 
         .about-text h3 {
-            font-size: 0.8rem;
-            margin-bottom: 0.1in;
+            font-size: 0.85rem;
+            font-weight: bold;
+            margin-bottom: 0.08in;
             color: #000;
         }
 
         .about-text p {
             font-size: 0.65rem;
-            line-height: 1.4;
+            line-height: 1.45;
             color: #000;
-            margin-bottom: 0.08in;
+            margin-bottom: 0.06in;
+        }
+
+        .about-text strong {
+            font-weight: bold;
         }
 
         .author-photo {
@@ -116,29 +150,33 @@
             object-fit: cover;
             border: 3px solid #fff;
             box-shadow: 0 2px 8px rgba(0,0,0,0.2);
+            flex-shrink: 0;
+            align-self: flex-start;
         }
 
         .author-photo-placeholder {
             width: 1.1in;
             height: 1.1in;
             border-radius: 50%;
-            background: #ddd;
+            background: #e8e8e8;
             border: 3px solid #fff;
             box-shadow: 0 2px 8px rgba(0,0,0,0.2);
             display: flex;
             align-items: center;
             justify-content: center;
-            font-size: 0.5rem;
+            font-size: 0.55rem;
             color: #666;
             text-align: center;
+            flex-shrink: 0;
+            align-self: flex-start;
         }
 
         .footer {
             display: flex;
             justify-content: space-between;
             align-items: flex-end;
-            padding-top: 0.15in;
-            border-top: 1px solid rgba(0,0,0,0.2);
+            padding-top: 0.1in;
+            border-top: 1px solid rgba(0,0,0,0.15);
         }
 
         .kaleidico-brand {
@@ -146,16 +184,16 @@
         }
 
         .kaleidico-logo {
-            font-size: 0.7rem;
-            font-weight: 600;
-            letter-spacing: 0.15em;
+            font-size: 0.75rem;
+            font-weight: 700;
+            letter-spacing: 0.12em;
             color: #6B21A8;
             font-family: Arial, sans-serif;
         }
 
         .kaleidico-url {
             font-size: 0.55rem;
-            color: #6B21A8;
+            color: #c41e3a;
             font-family: Arial, sans-serif;
         }
 
@@ -164,8 +202,8 @@
         }
 
         .isbn-barcode {
-            width: 1.2in;
-            height: 0.5in;
+            width: 1.3in;
+            height: 0.55in;
             background: #fff;
             display: flex;
             align-items: center;
@@ -178,7 +216,7 @@
         .isbn-number {
             font-size: 0.5rem;
             color: #000;
-            margin-top: 0.05in;
+            margin-top: 0.04in;
             font-family: monospace;
         }
     </style>
@@ -190,11 +228,14 @@
         </div>
 
         <div class="opening">
-            Most lead buyers are playing a game they can't win. They buy volume, squeeze vendors on price, and hope the sales team figures it out. Meanwhile, cost per lead keeps climbing, contact rates keep falling, and compliance risk keeps growing.
+            Most lead buyers are playing a game they can't win. They buy volume,<br>
+            squeeze vendors on price, and hope the sales team figures it out.<br>
+            Meanwhile, cost per lead keeps climbing, contact rates keep falling, and<br>
+            compliance risk keeps growing.
         </div>
 
         <div class="pitch">
-            <p>This book will change the way you think about lead generation.</p>
+            <p class="intro-bold">This book will change the way you think about lead generation.</p>
 
             <p>For twenty years, Bill Rice has been on both sides of the lead generation equation—building consumer direct systems for major lenders and running a lead generation agency. He's watched smart professionals burn through marketing budgets on bad data while competitors build systematic advantages that compound over time.</p>
 
@@ -213,20 +254,24 @@
             <p>The companies that master strategic lead generation don't just grow faster. They grow more predictably, more profitably, and more sustainably than competitors stuck in tactical procurement mode.</p>
         </div>
 
-        <div class="tagline">
-            Your competitors are fighting over satisfactory leads.<br>
-            Build something that lasts.
+        <div class="tagline-section">
+            <div class="tagline">
+                Your competitors are fighting over satisfactory leads.<br>
+                Build something that lasts.
+            </div>
         </div>
+
+        <div class="divider"></div>
 
         <div class="about-section">
             <div class="about-text">
                 <h3>About Bill Rice</h3>
-                <p>Bill Rice is a lead generation strategist who coined the term "lead management" and developed the mortgage industry's first intelligent lead scoring system.</p>
+                <p><strong>Bill Rice</strong> is a lead generation strategist who coined the term "lead management" and developed the mortgage industry's first intelligent lead scoring system.</p>
                 <p>As a founding member of DeepGreen Bank and an early innovator at Quicken Loans, Bill helped architect the digital origination models that defined the modern lending industry.</p>
                 <p>Today, as CEO of <strong>Kaleidico</strong>, a digital marketing agency specializing in lead generation for mortgage, legal, and senior living companies, he maintains a transparent view into exactly how leads are generated, packaged, and sold.</p>
             </div>
-            <img src="images/bill-rice-author-photo.jpg" alt="Bill Rice" class="author-photo" onerror="this.style.display='none';this.nextElementSibling.style.display='flex';">
-            <div class="author-photo-placeholder" style="display:none;">Photo<br>Pending</div>
+            <img src="../img/bill-rice-author-photo.jpg" alt="Bill Rice" class="author-photo" onerror="this.style.display='none';this.nextElementSibling.style.display='flex';">
+            <div class="author-photo-placeholder">Photo<br>Pending</div>
         </div>
 
         <div class="footer">
