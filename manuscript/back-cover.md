@@ -36,7 +36,9 @@ The companies that master strategic lead generation don't just grow faster. They
 
 ## Tagline (Centered, Bold)
 
-**Your competitors are fighting over scraps. Build something that lasts.**
+**Your competitors are fighting over satisfactory leads.**
+
+**Build something that lasts.**
 
 ---
 
@@ -44,7 +46,7 @@ The companies that master strategic lead generation don't just grow faster. They
 
 ### About Bill Rice
 
-[AUTHOR PHOTO PLACEHOLDER - Right side]
+![Bill Rice](images/bill-rice-author-photo.jpg)
 
 Bill Rice is a lead generation strategist who coined the term "lead management" and developed the mortgage industry's first intelligent lead scoring system.
 
@@ -61,8 +63,9 @@ Bill applies the pattern recognition skills from his career as a U.S. Air Force 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
 │                                                                 │
-│  [KALEIDICO LOGO]                              [ISBN BARCODE]   │
-│  kaleidico.com                                 978-X-XXXX-XXXX-X│
+│  K A L E I D I C O                             [ISBN BARCODE]   │
+│  (Purple #6B21A8)                              978-X-XXXX-XXXX-X│
+│  kaleidico.com                                                  │
 │                                                                 │
 └─────────────────────────────────────────────────────────────────┘
 ```
@@ -93,14 +96,16 @@ Bill applies the pattern recognition skills from his career as a U.S. Air Force 
 6. Footer: Kaleidico logo (left) | ISBN barcode (right)
 
 ### Photo Placement
-- Author headshot: Right side of "About the Author" section
+- Author headshot: `images/bill-rice-author-photo.jpg`
+- Position: Right side of "About the Author" section
 - Circular or rounded rectangle crop to match modern book design
-- Professional, approachable expression
+- Photo features Bill Rice in light blue polo, wood panel background
 
 ### Branding Elements
-- Kaleidico logo in bottom left corner
-- Website URL: kaleidico.com
-- Style should be subtle but visible (similar to rebelIQ placement in the "Leads Apocalypse" example)
+- **Kaleidico logo**: Spaced uppercase letters "K A L E I D I C O" in purple (#6B21A8)
+- Logo placement: Bottom left corner
+- Website URL: kaleidico.com (below logo)
+- Style should be subtle but visible
 
 ### ISBN/Barcode
 - Standard book barcode placement in bottom right
