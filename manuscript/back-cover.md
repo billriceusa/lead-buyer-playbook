@@ -74,8 +74,8 @@ Open `back-cover-mockup.html` in a browser to see the visual layout.
 - **Author Heading:** 12px, Bold, Uppercase
 - **Author Bio:** 9.5px, Regular
 
-### Layout (6" x 9" trim size)
-- Margins: 0.5" top, 0.55" sides, 0.4" bottom
+### Layout (5" x 8" trim size)
+- Margins: 0.4" top, 0.45" sides, 0.35" bottom
 - Author photo: 85px circular, left side of bio section
 - Horizontal rule separates main content from author section
 
