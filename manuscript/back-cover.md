@@ -10,7 +10,7 @@
 
 ## Opening Statement (Centered, Medium Text)
 
-Most lead buyers are playing a game they can't win. They buy volume, squeeze vendors on price, and hope the sales team figures it out. Meanwhile, cost per lead keeps climbing, contact rates keep falling, and compliance risk keeps growing.
+Most lead buyers are playing a game they can't win—buying volume, squeezing vendors, and hoping sales figures it out. Meanwhile, costs climb, contact rates fall, and compliance risk grows.
 
 ---
 
@@ -18,19 +18,13 @@ Most lead buyers are playing a game they can't win. They buy volume, squeeze ven
 
 This book will change the way you think about lead generation.
 
-For twenty years, Bill Rice has been on both sides of the lead generation equation—building consumer direct systems for major lenders and running a lead generation agency. He's watched smart professionals burn through marketing budgets on bad data while competitors build systematic advantages that compound over time.
+For twenty years, Bill Rice has been on both sides of the lead generation equation—building consumer direct systems for major lenders and running a lead generation agency. *The Lead Buyer's Playbook* is the operational blueprint he wishes someone had handed him when he started. Inside:
 
-*The Lead Buyer's Playbook* is the operational blueprint he wishes someone had handed him when he started. Inside, you'll discover:
-
-- Why the "more volume, lower price" strategy is mathematically broken
+- Why "more volume, lower price" is mathematically broken
 - How to hit 20%+ contact rates when industry average is 8%
-- The vendor management framework that turns adversaries into partners
-- Compliance systems that protect you from TCPA lawsuits
 - The 90-day action plan to transform your lead operation
 
-This isn't theory. Every framework has been tested in the field with mortgage, insurance, legal, and home services companies—from startups buying their first leads to enterprises managing seven-figure monthly budgets.
-
-The companies that master strategic lead generation don't just grow faster. They grow more predictably, more profitably, and more sustainably than competitors stuck in tactical procurement mode.
+Every framework has been tested with mortgage, insurance, legal, and home services companies—from startups to enterprises managing seven-figure monthly budgets. Master strategic lead generation and grow more predictably, profitably, and sustainably than competitors stuck in tactical mode.
 
 ---
 
@@ -48,13 +42,9 @@ The companies that master strategic lead generation don't just grow faster. They
 
 ![Bill Rice](images/bill-rice-author-photo.jpg)
 
-Bill Rice is a lead generation strategist who coined the term "lead management" and developed the mortgage industry's first intelligent lead scoring system.
+**Bill Rice** coined the term "lead management" and developed the mortgage industry's first intelligent lead scoring system. A founding member of DeepGreen Bank and early innovator at Quicken Loans, he helped define modern digital lending.
 
-As a founding member of DeepGreen Bank (one of the first internet-only banks) and an early innovator at Quicken Loans, Bill helped architect the digital origination models that defined the modern lending industry.
-
-Today, as CEO of **Kaleidico**, a digital marketing agency specializing in lead generation for mortgage, legal, and senior living companies, he maintains a transparent view into exactly how leads are generated, packaged, and sold.
-
-Bill applies the pattern recognition skills from his career as a U.S. Air Force intelligence officer to bring clarity to the complex lead marketplace. He publishes weekly analysis on growth strategy at **MyExecutiveBrief.com**.
+Today, as CEO of **Kaleidico**, Bill maintains a transparent view into exactly how leads are generated, packaged, and sold.
 
 ---
 
