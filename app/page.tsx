@@ -40,7 +40,7 @@ export default function HomePage() {
                 Free Online Edition
               </p>
               <h2 className="text-3xl sm:text-4xl lg:text-5xl font-bold text-white mb-6 leading-tight">
-                Master the Art of <span className="text-amber-400">Strategic Lead Generation</span>
+                Master the Art of <span className="text-amber-400">Strategic Lead Buying</span>
               </h2>
               <p className="text-lg text-slate-300 mb-8 max-w-xl">
                 Stop treating lead generation as a procurement problem. Learn the systematic approach that transforms lead buying from a cost center into a competitive advantage.
