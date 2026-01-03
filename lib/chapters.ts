@@ -15,7 +15,7 @@ const manuscriptDirectory = path.join(process.cwd(), 'manuscript');
 // Define the content structure
 const FRONT_MATTER_FILES = ['dedication', 'preface'];
 const BACK_MATTER_FILES = ['about-the-author', 'acknowledgements', 'afterword'];
-const EXCLUDED_FILES = ['titlepage', 'copyright', 'toc']; // These are integrated into homepage
+const EXCLUDED_FILES = ['titlepage', 'copyright', 'toc', 'back-cover']; // These are integrated into homepage or excluded from reading
 
 function getContentType(filename: string): 'front-matter' | 'chapter' | 'back-matter' | 'excluded' {
   const slug = filename.replace(/\.md$/, '');
