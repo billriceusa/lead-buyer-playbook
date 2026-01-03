@@ -2,10 +2,10 @@
 @tailwind components;
 @tailwind utilities;
 
-/* Book Cover Styles */
+/* Book Cover Styles - Matching actual print cover */
 .book-cover {
   width: 280px;
-  height: 400px;
+  height: 420px;
   position: relative;
   transform-style: preserve-3d;
   transform: perspective(1000px) rotateY(-15deg);
@@ -21,7 +21,7 @@
   left: 0;
   width: 24px;
   height: 100%;
-  background: linear-gradient(90deg, #78350f 0%, #92400e 50%, #78350f 100%);
+  background: linear-gradient(90deg, #c9a227 0%, #e6b800 50%, #c9a227 100%);
   transform: rotateY(90deg) translateX(-12px);
   transform-origin: left;
   border-radius: 2px 0 0 2px;
@@ -31,12 +31,12 @@
   position: absolute;
   width: 100%;
   height: 100%;
-  background: linear-gradient(135deg, #f59e0b 0%, #d97706 50%, #b45309 100%);
+  background: #f5c518;
   border-radius: 0 4px 4px 0;
-  box-shadow: 
+  box-shadow:
     0 0 30px rgba(0, 0, 0, 0.3),
     inset 0 0 0 1px rgba(255, 255, 255, 0.1),
-    inset -4px 0 8px rgba(0, 0, 0, 0.15);
+    inset -4px 0 8px rgba(0, 0, 0, 0.1);
   overflow: hidden;
 }
 
@@ -47,127 +47,148 @@
   left: 0;
   right: 0;
   bottom: 0;
-  background: 
-    linear-gradient(135deg, rgba(255,255,255,0.15) 0%, transparent 50%),
-    repeating-linear-gradient(
-      90deg,
-      transparent,
-      transparent 2px,
-      rgba(0,0,0,0.03) 2px,
-      rgba(0,0,0,0.03) 4px
-    );
+  background: linear-gradient(135deg, rgba(255,255,255,0.2) 0%, transparent 40%);
   pointer-events: none;
 }
 
 .book-content {
   position: relative;
   height: 100%;
-  padding: 24px 20px;
+  padding: 16px 18px 20px;
   display: flex;
   flex-direction: column;
-  color: #1e293b;
+  color: #1a1a1a;
 }
 
-.book-badge {
-  font-size: 10px;
-  font-weight: 700;
+.book-header-tagline {
+  font-size: 7px;
+  font-weight: 600;
   text-transform: uppercase;
-  letter-spacing: 0.15em;
-  color: #78350f;
-  background: rgba(255, 255, 255, 0.9);
-  padding: 4px 10px;
-  border-radius: 2px;
-  align-self: flex-start;
-  margin-bottom: 16px;
+  letter-spacing: 0.08em;
+  color: #1a1a1a;
+  text-align: center;
+  line-height: 1.4;
+  margin-bottom: 12px;
+}
+
+.book-title-section {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  margin-bottom: 8px;
 }
 
 .book-title {
-  font-size: 26px;
-  font-weight: 800;
-  line-height: 1.15;
-  color: #1e293b;
-  margin-bottom: 12px;
-  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.3);
+  font-size: 32px;
+  font-weight: 900;
+  line-height: 0.95;
+  color: #1a1a1a;
+  letter-spacing: -0.02em;
+  flex: 1;
 }
 
-.book-divider {
-  width: 40px;
-  height: 3px;
-  background: #1e293b;
-  margin-bottom: 12px;
-  opacity: 0.7;
-}
-
-.book-subtitle {
-  font-size: 12px;
-  line-height: 1.5;
-  color: #1e293b;
-  opacity: 0.85;
-  flex-grow: 1;
-}
-
-.book-author {
-  margin-top: auto;
-  padding-top: 16px;
-  border-top: 1px solid rgba(0, 0, 0, 0.1);
-}
-
-.book-author-label {
-  font-size: 11px;
-  color: #78350f;
+.book-title .title-the {
+  font-size: 20px;
   display: block;
   margin-bottom: 2px;
 }
 
-.book-author-name {
-  font-size: 16px;
-  font-weight: 700;
-  color: #1e293b;
+.book-title .title-main {
+  display: block;
 }
 
-.book-footer {
-  margin-top: 12px;
+.book-icon {
+  width: 52px;
+  height: 52px;
+  background: #1a1a1a;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  margin-left: 8px;
+  margin-top: 20px;
 }
 
-.book-tagline {
-  font-size: 9px;
+.book-icon svg {
+  width: 32px;
+  height: 32px;
+  fill: #f5c518;
+}
+
+.book-subtitle {
+  font-size: 13px;
   line-height: 1.4;
-  color: #1e293b;
-  opacity: 0.7;
+  color: #1a1a1a;
+  margin-top: auto;
+  margin-bottom: 16px;
+}
+
+.book-red-line {
+  width: 100%;
+  height: 4px;
+  background: #c41e3a;
+  margin-bottom: 8px;
+}
+
+.book-author-name {
+  font-size: 18px;
+  font-weight: 800;
+  color: #c41e3a;
+  letter-spacing: 0.02em;
 }
 
 /* Responsive Book Cover */
 @media (max-width: 640px) {
   .book-cover {
     width: 220px;
-    height: 320px;
+    height: 330px;
     transform: perspective(1000px) rotateY(-10deg);
   }
-  
+
   .book-cover:hover {
     transform: perspective(1000px) rotateY(-5deg);
   }
-  
+
   .book-spine {
     width: 18px;
     transform: rotateY(90deg) translateX(-9px);
   }
-  
+
   .book-content {
-    padding: 18px 16px;
+    padding: 12px 14px 16px;
   }
-  
+
+  .book-header-tagline {
+    font-size: 6px;
+    margin-bottom: 8px;
+  }
+
   .book-title {
-    font-size: 20px;
+    font-size: 24px;
   }
-  
+
+  .book-title .title-the {
+    font-size: 15px;
+  }
+
+  .book-icon {
+    width: 40px;
+    height: 40px;
+    margin-top: 14px;
+  }
+
+  .book-icon svg {
+    width: 24px;
+    height: 24px;
+  }
+
   .book-subtitle {
     font-size: 11px;
   }
-  
-  .book-badge {
-    font-size: 8px;
-    padding: 3px 8px;
+
+  .book-author-name {
+    font-size: 14px;
   }
 }
 
