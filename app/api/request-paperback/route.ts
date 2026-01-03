@@ -26,8 +26,9 @@ export async function POST(request: NextRequest) {
 
     // Send email notification
     const { data, error } = await resend.emails.send({
-      from: 'Lead Buyer\'s Playbook <book@billrice.com>',
-      to: ['bill@billrice.com'],
+      from: 'Lead Buyer\'s Playbook <book@leadbuyerplaybook.com>',
+      to: ['bill.rice@kaleidico.com'],
+      cc: ['ken.gemmell@kaleidico.com'],
       subject: `New Paperback Request: ${name} from ${company}`,
       html: `
         <h2>New Paperback Request</h2>
