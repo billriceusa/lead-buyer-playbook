@@ -45,24 +45,32 @@ export default function HomePage() {
               <p className="text-lg text-slate-300 mb-8 max-w-xl">
                 Stop treating lead generation as a procurement problem. Learn the systematic approach that transforms lead buying from a cost center into a competitive advantage.
               </p>
-              <div className="flex flex-col sm:flex-row gap-4 justify-center lg:justify-start">
+              <div className="flex flex-col gap-4 justify-center lg:justify-start">
+                <div className="flex flex-col sm:flex-row gap-4">
+                  <Link
+                    href={`/chapter/${allContent[0]?.slug || 'dedication'}`}
+                    className="inline-flex items-center justify-center px-6 py-3 bg-amber-500 hover:bg-amber-400 text-slate-900 font-semibold rounded-lg transition-colors"
+                  >
+                    Start Reading
+                    <svg className="ml-2 w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M17 8l4 4m0 0l-4 4m4-4H3" />
+                    </svg>
+                  </Link>
+                  <Link
+                    href="/request-paperback"
+                    className="inline-flex items-center justify-center px-6 py-3 border-2 border-amber-500 hover:border-amber-400 text-amber-500 hover:text-amber-400 font-semibold rounded-lg transition-colors"
+                  >
+                    Request a FREE paperback
+                  </Link>
+                </div>
                 <Link
-                  href={`/chapter/${allContent[0]?.slug || 'dedication'}`}
-                  className="inline-flex items-center justify-center px-6 py-3 bg-amber-500 hover:bg-amber-400 text-slate-900 font-semibold rounded-lg transition-colors"
-                >
-                  Start Reading
-                  <svg className="ml-2 w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M17 8l4 4m0 0l-4 4m4-4H3" />
-                  </svg>
-                </Link>
-                <a
                   href="https://billrice.com"
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="inline-flex items-center justify-center px-6 py-3 border border-slate-600 hover:border-slate-500 text-slate-300 hover:text-white font-medium rounded-lg transition-colors"
+                  className="text-slate-400 hover:text-amber-400 text-sm transition-colors text-center lg:text-left"
                 >
-                  About the Author
-                </a>
+                  Learn more about the author, Bill Rice →
+                </Link>
               </div>
             </div>
           </div>
