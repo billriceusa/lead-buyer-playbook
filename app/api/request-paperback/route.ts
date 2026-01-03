@@ -12,17 +12,23 @@ export async function POST(request: NextRequest) {
       industry,
       leadsPerMonth,
       referralSource,
-      shippingAddress,
+      streetAddress,
+      city,
+      state,
+      zip,
       strategyCall,
     } = body;
 
     // Validate required fields
-    if (!name || !company || !industry || !leadsPerMonth || !referralSource || !shippingAddress) {
+    if (!name || !company || !industry || !leadsPerMonth || !referralSource || !streetAddress || !city || !state || !zip) {
       return NextResponse.json(
         { error: 'Missing required fields' },
         { status: 400 }
       );
     }
+
+    // Format shipping address
+    const shippingAddress = `${streetAddress}\n${city}, ${state} ${zip}`;
 
     // Send email notification
     const { data, error } = await resend.emails.send({

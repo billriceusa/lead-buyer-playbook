@@ -10,7 +10,10 @@ export default function RequestPaperbackPage() {
     industry: '',
     leadsPerMonth: '',
     referralSource: '',
-    shippingAddress: '',
+    streetAddress: '',
+    city: '',
+    state: '',
+    zip: '',
     strategyCall: false,
   });
 
@@ -180,19 +183,69 @@ export default function RequestPaperbackPage() {
             </div>
 
             <div>
-              <label htmlFor="shippingAddress" className="block text-sm font-semibold text-slate-900 mb-2">
+              <label className="block text-sm font-semibold text-slate-900 mb-2">
                 Shipping Address <span className="text-red-500">*</span>
               </label>
-              <textarea
-                id="shippingAddress"
-                name="shippingAddress"
-                required
-                value={formData.shippingAddress}
-                onChange={handleChange}
-                rows={4}
-                className="w-full px-4 py-3 border border-slate-300 rounded-lg focus:ring-2 focus:ring-amber-500 focus:border-amber-500 outline-none transition-colors resize-none"
-                placeholder="Street address, City, State, ZIP Code"
-              />
+              <div className="space-y-4">
+                <div>
+                  <label htmlFor="streetAddress" className="sr-only">Street Address</label>
+                  <input
+                    type="text"
+                    id="streetAddress"
+                    name="streetAddress"
+                    required
+                    value={formData.streetAddress}
+                    onChange={handleChange}
+                    autoComplete="street-address"
+                    className="w-full px-4 py-3 border border-slate-300 rounded-lg focus:ring-2 focus:ring-amber-500 focus:border-amber-500 outline-none transition-colors"
+                    placeholder="Street address"
+                  />
+                </div>
+                <div className="grid grid-cols-1 sm:grid-cols-3 gap-4">
+                  <div>
+                    <label htmlFor="city" className="sr-only">City</label>
+                    <input
+                      type="text"
+                      id="city"
+                      name="city"
+                      required
+                      value={formData.city}
+                      onChange={handleChange}
+                      autoComplete="address-level2"
+                      className="w-full px-4 py-3 border border-slate-300 rounded-lg focus:ring-2 focus:ring-amber-500 focus:border-amber-500 outline-none transition-colors"
+                      placeholder="City"
+                    />
+                  </div>
+                  <div>
+                    <label htmlFor="state" className="sr-only">State</label>
+                    <input
+                      type="text"
+                      id="state"
+                      name="state"
+                      required
+                      value={formData.state}
+                      onChange={handleChange}
+                      autoComplete="address-level1"
+                      className="w-full px-4 py-3 border border-slate-300 rounded-lg focus:ring-2 focus:ring-amber-500 focus:border-amber-500 outline-none transition-colors"
+                      placeholder="State"
+                    />
+                  </div>
+                  <div>
+                    <label htmlFor="zip" className="sr-only">ZIP Code</label>
+                    <input
+                      type="text"
+                      id="zip"
+                      name="zip"
+                      required
+                      value={formData.zip}
+                      onChange={handleChange}
+                      autoComplete="postal-code"
+                      className="w-full px-4 py-3 border border-slate-300 rounded-lg focus:ring-2 focus:ring-amber-500 focus:border-amber-500 outline-none transition-colors"
+                      placeholder="ZIP Code"
+                    />
+                  </div>
+                </div>
+              </div>
             </div>
 
             <div className="flex items-start">
