@@ -23,17 +23,30 @@ export default function HomePage() {
                 <div className="book-spine"></div>
                 <div className="book-front">
                   <div className="book-content">
-                    <div className="book-badge">Enterprise Edition</div>
-                    <h1 className="book-title">The Lead Buyer's Playbook</h1>
-                    <div className="book-divider"></div>
+                    <div className="book-header-tagline">
+                      The Operational System for Validating Vendors, Maximizing Contact Rates, and Scaling Customer Acquisition
+                    </div>
+                    <div className="book-title-section">
+                      <h1 className="book-title">
+                        <span className="title-the">THE</span>
+                        <span className="title-main">LEAD<br/>BUYER'S<br/>PLAYBOOK</span>
+                      </h1>
+                      <div className="book-icon">
+                        <svg viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg">
+                          {/* Person icon at top */}
+                          <circle cx="28" cy="7" r="4"/>
+                          <path d="M28 12c-3 0-5 2-5 5v4h2v-3h6v3h2v-4c0-3-2-5-5-5z"/>
+                          {/* Magnet */}
+                          <path d="M8 18h6v4H8zM8 24h6v12c0 2-1 3-3 3s-3-1-3-3V24z"/>
+                          <path d="M16 18h6v4h-6zM16 24h6v12c0 2 1 3 3 3s3-1 3-3V24z"/>
+                          {/* Attraction lines */}
+                          <path d="M24 22l2-2M26 26l2-2M24 30l2-2" strokeWidth="1.5" stroke="currentColor" fill="none"/>
+                        </svg>
+                      </div>
+                    </div>
                     <p className="book-subtitle">How to Turn Third-Party Leads Into a Predictable Revenue Engine</p>
-                    <div className="book-author">
-                      <span className="book-author-label">by</span>
-                      <span className="book-author-name">Bill Rice</span>
-                    </div>
-                    <div className="book-footer">
-                      <div className="book-tagline">The operational system for validating vendors, maximizing contact rates, and scaling customer acquisition</div>
-                    </div>
+                    <div className="book-red-line"></div>
+                    <span className="book-author-name">BILL RICE</span>
                   </div>
                 </div>
               </div>
