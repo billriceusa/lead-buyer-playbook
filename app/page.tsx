@@ -21,7 +21,6 @@ export default function HomePage() {
             {/* Book Cover */}
             <div className="flex-shrink-0">
               <div className="book-cover">
-                <div className="book-spine"></div>
                 <div className="book-front">
                   <Image
                     src="/book-cover.jpg"
