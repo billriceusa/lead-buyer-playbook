@@ -258,7 +258,7 @@ export default function RequestPaperbackPage() {
                 className="mt-1 w-5 h-5 text-amber-600 border-slate-300 rounded focus:ring-amber-500"
               />
               <label htmlFor="strategyCall" className="ml-3 text-sm text-slate-700">
-                Would you like to schedule a strategy call with Bill Rice?
+                I want to schedule a strategy call with Bill Rice?
               </label>
             </div>
 
