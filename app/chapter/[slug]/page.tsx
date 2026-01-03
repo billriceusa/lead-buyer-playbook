@@ -5,9 +5,7 @@ import remarkGfm from 'remark-gfm';
 import { getAllContent, getChapterBySlug, getAdjacentChapters } from '@/lib/chapters';
 
 interface ChapterPageProps {
-  params: {
-    slug: string;
-  };
+  params: Promise<{ slug: string }>;
 }
 
 export async function generateStaticParams() {
@@ -18,7 +16,8 @@ export async function generateStaticParams() {
 }
 
 export async function generateMetadata({ params }: ChapterPageProps) {
-  const chapter = getChapterBySlug(params.slug);
+  const { slug } = await params;
+  const chapter = getChapterBySlug(slug);
   
   if (!chapter) {
     return {
@@ -27,7 +26,7 @@ export async function generateMetadata({ params }: ChapterPageProps) {
   }
 
   return {
-    title: `${chapter.title} | Lead Buyer Playbook`,
+    title: `${chapter.title} | The Lead Buyer's Playbook`,
     description: chapter.content.substring(0, 160),
   };
 }
@@ -44,14 +43,15 @@ function cleanContent(content: string): string {
   return content.replace(/<div style="page-break-after: always;"><\/div>/g, '').trim();
 }
 
-export default function ChapterPage({ params }: ChapterPageProps) {
-  const chapter = getChapterBySlug(params.slug);
+export default async function ChapterPage({ params }: ChapterPageProps) {
+  const { slug } = await params;
+  const chapter = getChapterBySlug(slug);
   
   if (!chapter) {
     notFound();
   }
 
-  const { prev, next } = getAdjacentChapters(params.slug);
+  const { prev, next } = getAdjacentChapters(slug);
   const chapterLabel = getChapterLabel(chapter);
 
   return (
