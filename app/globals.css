@@ -71,14 +71,7 @@
   margin-bottom: 10px;
 }
 
-/* Title area with icon */
-.book-title-area {
-  display: flex;
-  justify-content: space-between;
-  align-items: flex-start;
-  flex: 1;
-}
-
+/* Title */
 .book-title {
   display: flex;
   flex-direction: column;
@@ -86,6 +79,7 @@
   color: #1a1a1a;
   line-height: 0.9;
   letter-spacing: -0.02em;
+  flex: 1;
 }
 
 .title-the {
@@ -94,34 +88,15 @@
 }
 
 .title-lead {
-  font-size: 42px;
+  font-size: 46px;
 }
 
 .title-buyers {
-  font-size: 42px;
+  font-size: 46px;
 }
 
 .title-playbook {
-  font-size: 42px;
-}
-
-/* Icon circle */
-.book-icon {
-  width: 48px;
-  height: 48px;
-  background: #1a1a1a;
-  border-radius: 50%;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  flex-shrink: 0;
-  margin-left: 6px;
-  margin-top: 8px;
-}
-
-.book-icon svg {
-  width: 36px;
-  height: 36px;
+  font-size: 46px;
 }
 
 /* Subtitle */
@@ -186,18 +161,7 @@
   .title-lead,
   .title-buyers,
   .title-playbook {
-    font-size: 32px;
-  }
-
-  .book-icon {
-    width: 36px;
-    height: 36px;
-    margin-top: 6px;
-  }
-
-  .book-icon svg {
-    width: 26px;
-    height: 26px;
+    font-size: 36px;
   }
 
   .book-subtitle {

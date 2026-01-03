@@ -28,25 +28,12 @@ export default function HomePage() {
                       The Operational System for Validating Vendors, Maximizing Contact Rates, and Scaling Customer Acquisition
                     </p>
 
-                    {/* Title section with icon */}
-                    <div className="book-title-area">
-                      <div className="book-title">
-                        <span className="title-the">THE</span>
-                        <span className="title-lead">LEAD</span>
-                        <span className="title-buyers">BUYER&apos;S</span>
-                        <span className="title-playbook">PLAYBOOK</span>
-                      </div>
-                      <div className="book-icon">
-                        <svg viewBox="0 0 32 32" fill="#F5C518" xmlns="http://www.w3.org/2000/svg">
-                          {/* Person */}
-                          <circle cx="22" cy="6" r="3.5"/>
-                          <path d="M22 10c-3 0-5 2-5 5v4h10v-4c0-3-2-5-5-5z"/>
-                          {/* Magnet - U shape */}
-                          <rect x="4" y="8" width="4" height="4" fill="#C41E3A"/>
-                          <rect x="12" y="8" width="4" height="4" fill="#C41E3A"/>
-                          <path d="M4 12h4v10a4 4 0 0 1-4-4V12zM12 12h4v6a4 4 0 0 1-4 4V12z"/>
-                        </svg>
-                      </div>
+                    {/* Title */}
+                    <div className="book-title">
+                      <span className="title-the">THE</span>
+                      <span className="title-lead">LEAD</span>
+                      <span className="title-buyers">BUYER&apos;S</span>
+                      <span className="title-playbook">PLAYBOOK</span>
                     </div>
 
                     {/* Subtitle */}
