@@ -1,5 +1,4 @@
 import Link from 'next/link';
-import Image from 'next/image';
 import { getAllContent } from '@/lib/chapters';
 
 export default function HomePage() {
@@ -23,14 +22,47 @@ export default function HomePage() {
               <div className="book-cover">
                 <div className="book-spine"></div>
                 <div className="book-front">
-                  <Image
-                    src="/book-cover.png"
-                    alt="The Lead Buyer's Playbook by Bill Rice"
-                    width={280}
-                    height={420}
-                    className="book-cover-image"
-                    priority
-                  />
+                  <div className="book-content">
+                    {/* Top tagline */}
+                    <p className="book-tagline">
+                      The Operational System for Validating Vendors, Maximizing Contact Rates, and Scaling Customer Acquisition
+                    </p>
+
+                    {/* Title section with icon */}
+                    <div className="book-title-area">
+                      <div className="book-title">
+                        <span className="title-the">THE</span>
+                        <span className="title-lead">LEAD</span>
+                        <span className="title-buyers">BUYER&apos;S</span>
+                        <span className="title-playbook">PLAYBOOK</span>
+                      </div>
+                      <div className="book-icon">
+                        <svg viewBox="0 0 50 50" fill="none" xmlns="http://www.w3.org/2000/svg">
+                          {/* Person/lead icon */}
+                          <circle cx="35" cy="10" r="5" fill="#F5C518"/>
+                          <path d="M35 16c-4 0-7 3-7 7v5h14v-5c0-4-3-7-7-7z" fill="#F5C518"/>
+                          {/* Magnet */}
+                          <path d="M8 20h8v5H8z" fill="#C41E3A"/>
+                          <path d="M18 20h8v5h-8z" fill="#C41E3A"/>
+                          <path d="M8 25h8v15c0 3-2 5-4 5s-4-2-4-5V25z" fill="#F5C518"/>
+                          <path d="M18 25h8v15c0 3 2 5 4 5s4-2 4-5V25z" fill="#F5C518"/>
+                          {/* Attraction lines */}
+                          <path d="M28 28l4-3M29 34l5-3M28 40l4-3" stroke="#F5C518" strokeWidth="2" strokeLinecap="round"/>
+                        </svg>
+                      </div>
+                    </div>
+
+                    {/* Subtitle */}
+                    <p className="book-subtitle">
+                      How to Turn Third-Party Leads Into a Predictable Revenue Engine
+                    </p>
+
+                    {/* Red line and author */}
+                    <div className="book-footer">
+                      <div className="book-red-line"></div>
+                      <span className="book-author">BILL RICE</span>
+                    </div>
+                  </div>
                 </div>
               </div>
             </div>
