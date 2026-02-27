@@ -127,3 +127,5 @@ Sarah Mitchell's crisis forced her to build a systematic approach to enterprise 
 The chapters ahead unpack each capability with frameworks and implementation guidance you can use immediately. You'll learn how to evolve from tactical buyer to strategic leader, understand the economics driving vendor behavior, build the risk management systems that protect your business, develop the operational excellence that maximizes every lead's potential, and create the financial intelligence that proves ROI and informs allocation decisions.
 
 But first, you need to transform how you think about your role. Sarah discovered that her vendor crisis wasn't really about vendors at all—it was about how she'd been approaching lead buying. The next chapter shows you how to make that shift from tactical buyer to strategic lead generation partner, and why that transformation is the foundation for everything else in this book.
+
+<div style="page-break-after: always;"></div>

@@ -97,3 +97,5 @@ Sarah smiled. "We've tested to 5,000 leads monthly. The systems are built to sca
 Sarah's speed-to-lead infrastructure solved the scalability challenge, but it revealed the next problem: coordination. Getting SMS out in two minutes was valuable. But what happened next? How did teams coordinate follow-up across multiple channels? How did they ensure consistent experience when prospects engaged via SMS, email, phone, and self-service scheduling?
 
 The answer would require building omnichannel orchestration—systems that coordinated every touchpoint to create seamless consumer experiences regardless of how prospects chose to engage.
+
+<div style="page-break-after: always;"></div>

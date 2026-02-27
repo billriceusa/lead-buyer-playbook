@@ -26,3 +26,5 @@ Let’s get to work.
 
 **Bill Rice**  
 Monroe, Michigan
+
+<div style="page-break-after: always;"></div>

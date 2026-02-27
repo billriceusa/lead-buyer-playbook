@@ -80,10 +80,12 @@ If the answer creates anxiety, you're operating tactically rather than strategic
 
 If the answer is confident, you've built what Sarah built—strategic lead generation capability that creates sustainable competitive advantage regardless of market changes, vendor disruptions, or competitive pressures.
 
-The companies that master strategic lead generation don't just grow faster. They grow more predictably, more profitably, and more sustainably than competitors stuck in tactical procurement mode. They turn lead generation from a cost center that requires constant justification into a strategic capability that drives competitive advantage.
+The companies that master strategic lead generation don't just grow faster. They grow more predictably, more profitably, and more sustainably than competitors stuck in tactical procurement mode. They turn lead generation from a cost center to a strategic capability.
 
 Sarah Mitchell's journey from tactical buyer to strategic leader took 24 months and touched every aspect of how Velocity Lending approached lead generation. Your journey might be faster or slower, easier or harder, depending on where you start and what you're building toward.
 
 But the destination is the same: transforming lead generation from something you buy into something you build—systematic capability that compounds over time and creates advantages competitors can't easily replicate.
 
 That's the difference between buying leads and building strategic competitive advantage. That's the journey from lead buyer to lead strategist.
+
+<div style="page-break-after: always;"></div>

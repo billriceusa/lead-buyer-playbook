@@ -125,3 +125,5 @@ The organizational impact rippled beyond her immediate team. Sales leadership st
 The next challenge was understanding the economics driving the entire lead generation ecosystem—not just what she paid, but why vendors priced leads the way they did, what unit economics looked like across different sources, and how to build portfolio models that optimized for total returns rather than individual metrics.
 
 That understanding would transform how she thought about pricing, vendor negotiations, and portfolio construction. It would reveal why some vendors could profitably deliver high-quality leads at prices that seemed too good to be true, and why others couldn't deliver acceptable quality at any price.
+
+<div style="page-break-after: always;"></div>

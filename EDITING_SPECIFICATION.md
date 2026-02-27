@@ -381,3 +381,7 @@ When in doubt:
 
 This specification is the contract between author and editor. When followed precisely, it will produce a tight, engaging, practical book that smart readers will devour and immediately apply.
 
+
+
+
+

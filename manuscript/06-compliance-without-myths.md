@@ -103,3 +103,5 @@ Sarah's compliance framework taught her that compliance and growth weren't oppos
 But having quality controls and compliance systems in place was only valuable if Velocity Lending could actually reach the consumers who'd agreed to be contacted. Sarah's next challenge was solving the contact rate problem that plagued every lead buyer: how do you reach people who've expressed interest when 80% never answer the phone?
 
 The answer would require understanding consumer communication preferences, embracing channels that traditional B2C mortgage lenders had been slow to adopt, and building systematic approaches to multi-channel outreach that respected compliance requirements while dramatically improving contact rates.
+
+<div style="page-break-after: always;"></div>

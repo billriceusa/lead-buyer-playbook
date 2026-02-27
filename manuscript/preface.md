@@ -23,3 +23,5 @@ In these pages, you will meet Sarah Mitchell. She is a fictional character, but 
 We are going to dismantle the "more volume" myth. We are going to stop treating vendors like adversaries. And we are going to build a machine that turns strangers into customers with mathematical predictability.
 
 The Wild West is over. It’s time to build something that lasts.
+
+<div style="page-break-after: always;"></div>

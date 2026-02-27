@@ -95,3 +95,5 @@ Sarah's quality transformation taught her a fundamental lesson: most lead qualit
 But solving quality was only half the battle. Even with perfect data validation, Sarah faced another challenge: regulatory compliance. Her colleague James's $3.4 million potential liability kept haunting her. She needed to understand not just how to validate leads, but how to ensure every lead she bought met legal requirements for consent and disclosure.
 
 That understanding would require confronting the compliance mythology that paralyzed many lead buyers—myths about what was actually required, what was truly risky, and how to build compliant operations without destroying conversion rates or operational efficiency.
+
+<div style="page-break-after: always;"></div>

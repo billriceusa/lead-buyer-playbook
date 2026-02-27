@@ -111,3 +111,5 @@ Sarah's SMS-first transformation solved the contact rate problem, but it reveale
 When leads came in at 6 PM, who sent the SMS? When 47 leads arrived simultaneously, how did they get routed without creating bottlenecks? When the highest-quality leads arrived, how did Velocity Lending ensure they reached the best sales reps?
 
 Solving these questions would require building enterprise-scale speed-to-lead systems that could handle variable volume, intelligent routing, and real-time response without breaking under load.
+
+<div style="page-break-after: always;"></div>

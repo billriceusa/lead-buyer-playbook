@@ -95,3 +95,5 @@ Customer feedback reflected the shift. "You guys felt different from other lende
 ## Moving Forward
 
 Sarah's trust-building framework solved the confidence gap, but accelerating trust revealed the next challenge: sales cycle speed. Prospects now trusted Velocity Lending quickly, but the time from initial engagement to closed deal still averaged 127 days. The question was how to maintain trust while systematically accelerating the sales process without creating pressure that destroyed the relationship.
+
+<div style="page-break-after: always;"></div>

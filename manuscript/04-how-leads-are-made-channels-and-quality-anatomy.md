@@ -109,3 +109,5 @@ Jessica's tour through LeadFlow's operations had revealed that the lead generati
 But source transparency alone wasn't enough. Sarah's next discovery would be that even leads from the best sources required systematic validation and fraud controls. Because knowing where a lead came from didn't guarantee the data was accurate, the contact would answer, or the interest was genuine.
 
 The next layer of her strategic foundation would be building the validation systems that separated legitimate consumer interest from digital noise dressed up as opportunities.
+
+<div style="page-break-after: always;"></div>

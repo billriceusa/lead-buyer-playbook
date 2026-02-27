@@ -83,3 +83,5 @@ Most importantly, the portfolio approach had made growth predictable rather than
 Sarah's portfolio management framework solved the scaling challenge, but it revealed the final piece of the puzzle: sales enablement. Her team was now handling vastly more leads from diverse sources with different characteristics. But was the sales team equipped to convert them effectively? Did reps understand how to handle leads from different sources? Were they using source-specific messaging and approaches?
 
 The answer would require building sales enablement systems specifically designed for lead-based selling—systems that armed reps with the intelligence and tools to convert diverse lead sources at maximum efficiency.
+
+<div style="page-break-after: always;"></div>

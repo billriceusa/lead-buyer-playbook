@@ -77,3 +77,5 @@ Most importantly, conversion rates improved. The proposal-to-close rate climbed 
 Sarah's sales cycle acceleration framework transformed Velocity Lending's velocity, but it revealed the final operational challenge: system reliability. As volume increased and processes accelerated, Velocity Lending's CRM and RevOps infrastructure was showing strain. Data quality issues created delays. Routing errors caused opportunities to fall through cracks. Integration problems slowed processes.
 
 The final piece of operational excellence would be building RevOps systems that didn't leak opportunities—infrastructure that could handle the volume, speed, and complexity that Sarah had built across the entire lead generation and sales process.
+
+<div style="page-break-after: always;"></div>

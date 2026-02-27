@@ -1,0 +1,9 @@
+# Bill Rice – Short Biography
+
+Bill Rice is the Founder and CEO of **Kaleidico**, a demand generation agency specializing in mortgage and fintech marketing, and Principal Consultant of **Bill Rice Strategy Group**. With over 20 years at the intersection of financial services innovation and digital marketing, Rice is recognized as a pioneer who coined the term "lead management" and built the first intelligent lead scoring and distribution system for the mortgage industry.
+
+Rice's career spans critical fintech milestones: he was **Employee #7 at DeepGreen Bank** (one of the first internet-only banks), where he helped launch the industry's first unconditional online HELOC. He later served as **Vice President of National Home Equity at Quicken Loans** (now Rocket Mortgage), building the EquityOnline platform. His consulting work includes strategic advisory roles with Quizzle (sold to Bankrate), SpringEQ, and ProPair.
+
+Before entering fintech, Rice served as a **U.S. Air Force Officer** specializing in counterespionage operations, and held senior roles at TASC (Information Warfare Centers Program Manager) and Iridium Communications (Call Intercept System Security Manager). He holds a **B.S. in Political Science from the U.S. Air Force Academy** and an **MBA in Marketing from the University of Phoenix**.
+
+Today, Rice is an active thought leader across LinkedIn, YouTube, and his Substack newsletter *My Executive Brief*, focusing on AI-driven marketing, lead generation strategy, and fintech demand generation. He is a regular speaker at industry conferences and frequent podcast guest on marketing and business strategy topics.

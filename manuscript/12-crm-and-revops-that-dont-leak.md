@@ -77,3 +77,5 @@ The infrastructure also enabled Sarah's next challenge: scaling to even higher v
 Sarah's RevOps transformation solved the operational infrastructure challenge, completing the operational excellence pillar of her lead generation framework. But as Velocity Lending prepared to scale to 7,200 monthly leads—triple their original volume—Sarah faced a new challenge: ensuring her sales team could effectively convert the diverse mix of lead sources she was building through strategic portfolio management.
 
 The final piece would be sales enablement specifically designed for lead-based selling—arming reps with source-specific intelligence, messaging frameworks, and conversion tools that maximized the value of every lead regardless of where it came from.
+
+<div style="page-break-after: always;"></div>

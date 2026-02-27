@@ -89,3 +89,5 @@ Sarah's team, who'd been skeptical of the complexity, became advocates. "It's ac
 Sarah's omnichannel orchestration solved the channel coordination challenge, but it revealed the next problem: trust. Getting messages to prospects through their preferred channels was valuable. But getting them to actually engage, share information, and move forward required building trust quickly with people who'd never met Velocity Lending before.
 
 The next challenge would be understanding how to build credibility and trust in the first few interactions—how to move from stranger to trusted advisor in the compressed timeline of modern B2C sales.
+
+<div style="page-break-after: always;"></div>

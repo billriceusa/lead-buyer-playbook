@@ -125,3 +125,5 @@ Sarah's unit economics framework changed how Velocity Lending approached every a
 But understanding what she was paying—and why—raised new questions about what she was actually buying. Lead vendors presented their inventory as "mortgage leads" or "insurance prospects," but that description masked how leads were actually generated, what sources produced different quality levels, and why some vendors could deliver premium quality while others consistently underperformed.
 
 The next step in Sarah's evolution was understanding the anatomy of lead generation itself: how leads were made, what channels produced what quality, and how to evaluate vendors based on their sourcing methods rather than just their pricing.
+
+<div style="page-break-after: always;"></div>

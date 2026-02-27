@@ -7,3 +7,5 @@ Bill was a founding member of **DeepGreen Bank**, one of the first internet-only
 Today, Bill serves as a trusted insider who understands exactly how leads are generated, packaged, and sold. As the owner of **Kaleidico**, a digital marketing agency, he maintains a transparent view into the vendor side of the equation, generating first-party leads for mortgage, legal, and senior living companies.
 
 Bill applies the pattern recognition skills from his time as a U.S. Air Force intelligence officer to bring clarity to the complex lead marketplace. He lives in Monroe, Michigan, and publishes weekly analysis on growth strategy at **MyExecutiveBrief.com**.
+
+<div style="page-break-after: always;"></div>
