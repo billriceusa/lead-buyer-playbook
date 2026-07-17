@@ -1,12 +1,74 @@
 import Link from 'next/link';
 import Image from 'next/image';
-import { getAllContent } from '@/lib/chapters';
+import type { Metadata } from 'next';
+import { getAllContent, getAllChapters } from '@/lib/chapters';
+import { SITE_URL, BOOK_NAME, AUTHOR, PUBLISHER, OG_IMAGE } from '@/lib/site';
+
+// Next.js merges `openGraph` shallowly, so respecify the full block here
+// (a partial override would wipe the layout's image/url/siteName).
+export const metadata: Metadata = {
+  openGraph: {
+    type: 'book',
+    siteName: BOOK_NAME,
+    title: "The Lead Buyer's Playbook | Buy & Convert Leads Profitably",
+    description:
+      'The enterprise guide to buying and converting purchased internet leads profitably — free online edition by Bill Rice.',
+    url: `${SITE_URL}/`,
+    images: [OG_IMAGE],
+    locale: 'en_US',
+  },
+};
+
+function buildBookSchema() {
+  const chapters = getAllChapters();
+  return {
+    '@context': 'https://schema.org',
+    '@type': 'Book',
+    name: BOOK_NAME,
+    alternateName: 'Lead Buyer Playbook',
+    bookEdition: 'First Edition',
+    datePublished: '2025-11',
+    inLanguage: 'en-US',
+    url: `${SITE_URL}/`,
+    abstract:
+      'The enterprise guide to buying and converting purchased internet leads profitably — treating lead buying as a strategic discipline across market economics, lead quality, fraud controls, compliance, speed-to-lead, omnichannel outreach, CRM/RevOps, forecasting, and sales enablement.',
+    author: {
+      '@type': 'Person',
+      name: AUTHOR.name,
+      url: AUTHOR.url,
+      sameAs: AUTHOR.sameAs,
+    },
+    publisher: {
+      '@type': 'Organization',
+      name: PUBLISHER.name,
+      url: PUBLISHER.url,
+    },
+    workExample: {
+      '@type': 'Book',
+      '@id':
+        'https://www.amazon.com/Lead-Buyers-Playbook-Third-Party-Predictable/dp/B0G6S3GCX5/',
+      bookFormat: 'https://schema.org/EBook',
+      url: 'https://www.amazon.com/Lead-Buyers-Playbook-Third-Party-Predictable/dp/B0G6S3GCX5/',
+    },
+    hasPart: chapters.map((chapter) => ({
+      '@type': 'Chapter',
+      position: chapter.order,
+      name: chapter.title,
+      url: `${SITE_URL}/chapter/${chapter.slug}`,
+    })),
+  };
+}
 
 export default function HomePage() {
   const allContent = getAllContent();
+  const bookSchema = buildBookSchema();
 
   return (
     <div className="min-h-screen bg-gradient-to-br from-slate-900 via-slate-800 to-slate-900">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(bookSchema) }}
+      />
       {/* Book Cover Hero Section */}
       <section className="relative py-16 sm:py-24 overflow-hidden">
         {/* Background Pattern */}

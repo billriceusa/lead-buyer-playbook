@@ -2,12 +2,24 @@ import Link from 'next/link';
 import { notFound } from 'next/navigation';
 import ReactMarkdown from 'react-markdown';
 import remarkGfm from 'remark-gfm';
+import type { Metadata } from 'next';
 import { getAllContent, getChapterBySlug, getAdjacentChapters } from '@/lib/chapters';
+import { SITE_URL, BOOK_NAME, AUTHOR, OG_IMAGE } from '@/lib/site';
 
 interface ChapterPageProps {
   params: {
     slug: string;
   };
+}
+
+// Strip the leading H1 and collapse whitespace for a clean meta description.
+function toDescription(content: string): string {
+  return content
+    .replace(/^#\s+.+$/m, '')
+    .replace(/[#*_>`]/g, '')
+    .replace(/\s+/g, ' ')
+    .trim()
+    .substring(0, 160);
 }
 
 export async function generateStaticParams() {
@@ -17,18 +29,59 @@ export async function generateStaticParams() {
   }));
 }
 
-export async function generateMetadata({ params }: ChapterPageProps) {
+export async function generateMetadata({ params }: ChapterPageProps): Promise<Metadata> {
   const chapter = getChapterBySlug(params.slug);
-  
+
   if (!chapter) {
     return {
       title: 'Chapter Not Found',
     };
   }
 
+  const description = toDescription(chapter.content);
+  const path = `/chapter/${chapter.slug}`;
+
   return {
-    title: `${chapter.title} | Lead Buyer Playbook`,
-    description: chapter.content.substring(0, 160),
+    // Plain string title picks up the root layout's `%s | The Lead Buyer's Playbook` template.
+    title: chapter.title,
+    description,
+    alternates: { canonical: path },
+    openGraph: {
+      type: 'article',
+      siteName: BOOK_NAME,
+      title: chapter.title,
+      description,
+      url: `${SITE_URL}${path}`,
+      images: [OG_IMAGE],
+      locale: 'en_US',
+    },
+    twitter: {
+      title: chapter.title,
+      description,
+    },
+  };
+}
+
+function buildChapterSchema(chapter: {
+  slug: string;
+  title: string;
+  order: number;
+  type: string;
+}) {
+  return {
+    '@context': 'https://schema.org',
+    '@type': 'Chapter',
+    name: chapter.title,
+    // Only true chapters carry a meaningful book position.
+    ...(chapter.type === 'chapter' ? { position: chapter.order } : {}),
+    url: `${SITE_URL}/chapter/${chapter.slug}`,
+    isPartOf: {
+      '@type': 'Book',
+      name: BOOK_NAME,
+      url: `${SITE_URL}/`,
+    },
+    author: { '@type': 'Person', name: AUTHOR.name, url: AUTHOR.url },
+    inLanguage: 'en-US',
   };
 }
 
@@ -53,9 +106,14 @@ export default function ChapterPage({ params }: ChapterPageProps) {
 
   const { prev, next } = getAdjacentChapters(params.slug);
   const chapterLabel = getChapterLabel(chapter);
+  const chapterSchema = buildChapterSchema(chapter);
 
   return (
     <div className="min-h-screen bg-slate-50">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(chapterSchema) }}
+      />
       {/* Header */}
       <header className="sticky top-0 z-10 bg-white border-b border-slate-200 shadow-sm">
         <div className="max-w-5xl mx-auto px-4 py-4 sm:px-6 lg:px-8">

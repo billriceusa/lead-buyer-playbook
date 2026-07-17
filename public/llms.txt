@@ -1,0 +1,30 @@
+# The Lead Buyer's Playbook
+
+> The free online edition of *The Lead Buyer's Playbook* by Bill Rice — the enterprise guide to buying and converting purchased internet leads profitably. It treats lead buying as a strategic discipline rather than a procurement line item, covering market and unit economics, lead quality and fraud controls, compliance, speed-to-lead, omnichannel outreach, CRM/RevOps, forecasting, and sales enablement for teams that buy third-party leads at scale.
+
+## About
+- [About the Author — Bill Rice](https://www.leadbuyerplaybook.com/chapter/about-the-author): 30+ years in mortgage, fintech, and financial services; founder of Kaleidico and Bill Rice Strategy Group; author and lead-generation strategist.
+- [Preface](https://www.leadbuyerplaybook.com/chapter/preface): Why enterprise lead buying needs a strategist's playbook, and who this book is for.
+- [Print / Kindle edition on Amazon](https://www.amazon.com/Lead-Buyers-Playbook-Third-Party-Predictable/dp/B0G6S3GCX5/): The paid edition of the same work.
+
+## Chapters
+- [1. The Enterprise Lead Buying Landscape](https://www.leadbuyerplaybook.com/chapter/01-enterprise-lead-buying-landscape): The current state of third-party lead buying and where enterprise buyers win or lose.
+- [2. Becoming a Lead Strategist](https://www.leadbuyerplaybook.com/chapter/02-becoming-a-lead-strategist): Shifting from buying leads as a cost center to running them as a competitive advantage.
+- [3. Markets, Pricing, and Unit Economics](https://www.leadbuyerplaybook.com/chapter/03-markets-pricing-and-unit-economics): How lead markets are priced and how to model unit economics before you buy.
+- [4. How Leads Are Made: Channels and Quality Anatomy](https://www.leadbuyerplaybook.com/chapter/04-how-leads-are-made-channels-and-quality-anatomy): Lead generation channels and what actually determines lead quality.
+- [5. Data Validation and Fraud Controls](https://www.leadbuyerplaybook.com/chapter/05-data-validation-and-fraud-controls): Validating lead data and defending against fraud and junk data.
+- [6. Compliance Without Myths](https://www.leadbuyerplaybook.com/chapter/06-compliance-without-myths): TCPA and lead-buying compliance explained without the fear-based myths.
+- [7. The 20%+ Contact Rate Formula](https://www.leadbuyerplaybook.com/chapter/07-the-20-percent-contact-rate-formula): A repeatable system for pushing contact rates above 20%.
+- [8. Speed-to-Lead Systems for Enterprise Scale](https://www.leadbuyerplaybook.com/chapter/08-speed-to-lead-systems-for-enterprise-scale): Building speed-to-lead infrastructure that holds up at enterprise volume.
+- [9. Omnichannel Outreach Playbook](https://www.leadbuyerplaybook.com/chapter/09-omnichannel-outreach-playbook): Coordinating phone, SMS, email, and more into one outreach cadence.
+- [10. Building Trust Quickly](https://www.leadbuyerplaybook.com/chapter/10-building-trust-quickly): Earning prospect trust fast enough to convert a purchased lead.
+- [11. Sales Cycle Acceleration Framework](https://www.leadbuyerplaybook.com/chapter/11-sales-cycle-acceleration-framework): Compressing the sales cycle on bought leads without cutting corners.
+- [12. CRM and RevOps That Don't Leak](https://www.leadbuyerplaybook.com/chapter/12-crm-and-revops-that-dont-leak): Designing CRM and RevOps so leads and revenue don't fall through the cracks.
+- [13. Lead Mix, Forecasting, and Budget Allocation](https://www.leadbuyerplaybook.com/chapter/13-lead-mix-forecasting-and-budget-allocation): Allocating budget across lead types and forecasting outcomes.
+- [14. Sales Enablement for Lead Buyers](https://www.leadbuyerplaybook.com/chapter/14-sales-enablement-for-lead-buyers): Equipping reps with the scripts, tools, and training to convert bought leads.
+- [15. Conclusion: The Lead Strategist's Journey](https://www.leadbuyerplaybook.com/chapter/15-conclusion): Bringing the discipline together into an ongoing operating practice.
+- [Afterword: The End of the "Wild West"](https://www.leadbuyerplaybook.com/chapter/afterword): Where the lead-buying industry is heading as standards mature.
+
+## Optional
+- [Dedication](https://www.leadbuyerplaybook.com/chapter/dedication)
+- [Acknowledgements](https://www.leadbuyerplaybook.com/chapter/acknowledgements)
