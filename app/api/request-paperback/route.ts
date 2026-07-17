@@ -1,7 +1,14 @@
 import { Resend } from 'resend';
 import { NextRequest, NextResponse } from 'next/server';
 
-const resend = new Resend(process.env.RESEND_API_KEY);
+// Lazy so the client is built per-request, not at module load. This keeps
+// `next build` from requiring RESEND_API_KEY (it's only needed at runtime,
+// where Vercel always provides it).
+function getResend() {
+  const key = process.env.RESEND_API_KEY;
+  if (!key) throw new Error('RESEND_API_KEY is not set');
+  return new Resend(key);
+}
 
 export async function POST(request: NextRequest) {
   try {
@@ -31,6 +38,7 @@ export async function POST(request: NextRequest) {
     const shippingAddress = `${streetAddress}\n${city}, ${state} ${zip}`;
 
     // Send email notification
+    const resend = getResend();
     const { data, error } = await resend.emails.send({
       from: 'Lead Buyer\'s Playbook <book@leadbuyerplaybook.com>',
       to: ['bill.rice@kaleidico.com'],

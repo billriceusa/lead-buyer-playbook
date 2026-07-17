@@ -1,6 +1,6 @@
-// Canonical site constants. Host is www per the agent-ready crawl-stage decision
-// (apex 301s to www). Used by metadata, JSON-LD, robots, and sitemap.
-export const SITE_URL = 'https://www.leadbuyerplaybook.com';
+// Canonical site constants. Host is the apex per the agent-ready crawl-stage
+// decision (www 308s to apex). Used by metadata, JSON-LD, robots, and sitemap.
+export const SITE_URL = 'https://leadbuyerplaybook.com';
 export const BOOK_NAME = "The Lead Buyer's Playbook";
 export const OG_IMAGE = '/book-cover.jpg';
 export const AUTHOR = {
