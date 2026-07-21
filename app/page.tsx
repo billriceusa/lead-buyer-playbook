@@ -222,15 +222,31 @@ export default function HomePage() {
                 Kaleidico
               </a>
               <span className="text-slate-700">•</span>
-              <a 
-                href="https://leadgenerationworld.com" 
-                target="_blank" 
+              <a
+                href="https://leadgenerationworld.com"
+                target="_blank"
                 rel="noopener noreferrer"
                 className="text-slate-400 hover:text-slate-300 transition-colors"
               >
                 Lead Generation World
               </a>
             </div>
+            {/* Reciprocal link to the other book. Both sites carry the same
+                author sameAs set, so linking them closes the entity loop. */}
+            <p className="mt-6 text-sm text-slate-400">
+              Also by Bill Rice:{' '}
+              <a
+                href="https://salesteamofone.com"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-amber-500 hover:text-amber-400 transition-colors"
+              >
+                Sales Team of One
+              </a>{' '}
+              <span className="text-slate-500">
+                — how to stay irreplaceable when AI comes for the sales team. Being published free, chapter by chapter.
+              </span>
+            </p>
             <p className="text-slate-600 text-xs mt-6">
               First Edition — November 2025
             </p>

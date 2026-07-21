@@ -7,10 +7,14 @@ export const OG_IMAGE = '/book-cover.jpg';
 export const AUTHOR = {
   name: 'Bill Rice',
   url: 'https://billrice.com',
+  // Kept identical to salesteamofone.com's set so both book sites resolve to
+  // one author entity — authority earned on either domain then compounds.
+  // Personal profiles only, per Bill's standing directive (no brand accounts).
   sameAs: [
     'https://billrice.com',
-    'https://billricestrategy.com/about',
+    'https://www.linkedin.com/in/billrice',
     'https://twitter.com/billrice',
+    'https://billricestrategy.com/about',
   ],
 } as const;
 export const PUBLISHER = {
